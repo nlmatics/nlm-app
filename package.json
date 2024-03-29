@@ -1,0 +1,108 @@
+{
+  "name": "nlm-react",
+  "version": "2.2.6",
+  "private": true,
+  "dependencies": {
+    "@ant-design/charts": "^1.3.6",
+    "@ant-design/icons": "^4.7.0",
+    "@antv/g6": "4.8.2",
+    "@loadable/component": "^5.15.2",
+    "@material-ui/styles": "^4.11.4",
+    "@react-querybuilder/antd": "^6.4.1",
+    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.1.2",
+    "ag-grid-community": "28.1.1",
+    "ag-grid-enterprise": "28.1.1",
+    "ag-grid-react": "28.1.1",
+    "antd": "4.24.5",
+    "axios": "^0.21.4",
+    "babel-plugin-import": "^1.13.3",
+    "customize-cra": "^0.9.1",
+    "firebase": "^7.8.0",
+    "html-text-to-react": "0.0.5",
+    "html2canvas": "^1.4.1",
+    "js-cookie": "^2.2.1",
+    "js-file-download": "^0.4.12",
+    "less": "^3.13.1",
+    "less-loader": "^5.0.0",
+    "numeral": "^2.0.6",
+    "react": "16.14.0",
+    "react-app-rewired": "^2.2.1",
+    "react-cookie": "^4.1.1",
+    "react-dom": "16.14.0",
+    "react-dropzone": "^10.2.1",
+    "react-highlight-words": "^0.18.0",
+    "react-highlighter": "^0.4.3",
+    "react-json-view": "^1.21.3",
+    "react-markdown": "^8.0.5",
+    "react-query": "^3.39.2",
+    "react-querybuilder": "^6.4.1",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "4.0.0",
+    "react-xml-viewer": "^1.3.0",
+    "remark-gfm": "^3.0.1",
+    "update-browserslist-db": "^1.0.10"
+  },
+  "scripts": {
+    "start": "REACT_APP_APP_NAME=NLMATICS REACT_APP_WEBSITE_NAME=nlmatics react-app-rewired start",
+    "build": "REACT_APP_APP_NAME=NLMATICS REACT_APP_WEBSITE_NAME=nlmatics react-app-rewired build",
+    "start:chatty-pdf": "REACT_APP_APP_NAME=CHATTY_PDF REACT_APP_WEBSITE_NAME=ChattyPDF react-app-rewired start",
+    "build:chatty-pdf": "REACT_APP_APP_NAME=CHATTY_PDF REACT_APP_WEBSITE_NAME=ChattyPDF react-app-rewired build",
+    "start:edgar": "REACT_APP_APP_NAME=EDGAR REACT_APP_WEBSITE_NAME='nlmatics SEC' react-app-rewired start",
+    "build:edgar": "REACT_APP_APP_NAME=EDGAR REACT_APP_WEBSITE_NAME='nlmatics SEC' react-app-rewired build",
+    "analyze-bundle": "react-app-rewired build --analyze",
+    "test": "react-app-rewired test --env=jsdom-fourteen",
+    "eject": "react-app-rewired eject",
+    "prettier:fix": "prettier --write src",
+    "eslint:fix": "eslint --fix src",
+    "prepare": "husky install",
+    "generate-themes": "node generateThemes"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "antd-theme-generator": "^1.2.11",
+    "antd-theme-webpack-plugin": "^1.3.9",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.6",
+    "eslint": "^7.11.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jest": "^24.3.6",
+    "eslint-plugin-jest-dom": "^3.8.1",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-prettier": "^3.4.1",
+    "eslint-plugin-react": "^7.29.4",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "eslint-plugin-testing-library": "^4.2.0",
+    "husky": ">=6",
+    "jest-environment-jsdom-fourteen": "^1.0.1",
+    "lint-staged": ">=10",
+    "prettier": "2.6.2",
+    "webpack-bundle-analyzer": "^4.7.0"
+  },
+  "jest": {
+    "setupFilesAfterEnv": [
+      "<rootDir>/src/tests/testSetup.js"
+    ]
+  },
+  "lint-staged": {
+    "*.js": "eslint --cache --fix"
+  },
+  "resolutions": {
+    "//": "See https://github.com/facebook/create-react-app/issues/11773",
+    "react-error-overlay": "6.0.9"
+  }
+}

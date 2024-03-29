@@ -1,0 +1,67 @@
+body[data-theme='dark'] {
+  .ant-list {
+    .ant-card {
+      background: #141414;
+    }
+  }
+
+  .nlm-cell-lowscore {
+    color: rgb(24, 29, 31);
+  }
+
+  .nlm-cell-workflow-field {
+    background-color: #5a5a5a;
+  }
+
+  .keyword-hilite {
+    color: #000;
+    background-color: rgba(255, 255, 0, 0.8);
+  }
+
+  .answer-in-phrase-mark {
+    color: #fff;
+    background-color: var(--sa-brand-color);
+  }
+
+  /* Workaround to set hover colors in dark theme */
+  a:not([disabled]):hover,
+  .ant-tabs-tab:not([disabled]):hover,
+  .ant-btn:not([disabled]):hover,
+  .ant-typography-copy:not([disabled]):hover {
+    color: var(--dark-theme-hover-color);
+  }
+  .ant-pagination-item-active:not([disabled]):hover,
+  .ant-btn:not([disabled]) {
+    &:hover,
+    &:focus {
+      border-color: var(--dark-theme-hover-color);
+    }
+  }
+  .ant-btn-link:not([disabled]) {
+    &:hover,
+    &:focus {
+      border-color: transparent;
+    }
+  }
+  .ant-btn-primary:not([disabled]):hover {
+    color: #fff;
+    border-color: transparent;
+  }
+  .ant-btn-primary:not([disabled]):focus {
+    background-color: var(--sa-brand-color);
+  }
+  .ant-btn-primary:not([disabled]):hover {
+    background-color: var(--dark-theme-hover-color);
+  }
+  .ant-btn-link:not([disabled]):hover {
+    border-color: transparent;
+    color: var(--dark-theme-hover-color);
+  }
+  .ant-upload.ant-upload-drag p.ant-upload-drag-icon .anticon,
+  .ant-upload-list.ant-upload-list-text .anticon {
+    color: var(--sa-brand-color) !important;
+  }
+  .ant-tree .ant-tree-node-content-wrapper.ant-tree-node-selected {
+    background-color: var(--sa-brand-color);
+  }
+}

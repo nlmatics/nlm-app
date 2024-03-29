@@ -1,0 +1,39 @@
+@nlm-search-result-card-width: 900px;
+@nlm-left-menu-width: 50px;
+@criterion-card-width: calc(
+  (100vw - @nlm-search-result-card-width - @nlm-left-menu-width) / 2 - 100px
+);
+@criterion-card-right-position: calc(@nlm-search-result-card-width + 45px);
+
+.nlm-search,
+.nlm-fieldExtraction,
+.nlm-workspaceSearch {
+  .nlm-searchCriteria {
+    position: relative;
+    top: 11px;
+
+    &__right-button {
+      position: absolute;
+      top: 40px;
+      left: calc(
+        @nlm-search-result-card-width + 45px +
+          (
+            (100vw - @nlm-search-result-card-width - @nlm-left-menu-width) / 2 -
+              100px
+          )
+      );
+    }
+    &__criterion {
+      position: absolute;
+      top: 0;
+      left: @criterion-card-right-position;
+      width: @criterion-card-width;
+    }
+
+    &__left-button {
+      position: absolute;
+      top: 40px;
+      left: @nlm-search-result-card-width;
+    }
+  }
+}

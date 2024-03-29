@@ -1,0 +1,27 @@
+:root {
+  --dark-theme-hover-color: #007078;
+  /* New Colors: */
+  --sa-brand-color: #03989e;
+  --sa-brand-color-hilight: #03989e52;
+  --ag-alpine-active-color: #03989e;
+  --brand-color-dark: #5d5187;
+  --background-color-grey: #f5f5f5;
+  --success-color-green: #52c41a;
+  --warning-color-yellow: #f2e205;
+  --error-color-red: #c23103;
+  --light-purple-1: #f8f0ff;
+  --light-purple-2: #ecd9ff;
+  --light-purple-3: #d5b0ff;
+
+  --table-cell-low-score: #f8e0d8;
+
+  --scrollbarWidth: 7px;
+
+  --darkThemeScrollbarColor: #222;
+  --darkThemeScrollbarThumbColor: #333;
+  --darkThemeScrollbarThumbHoverColor: #666;
+
+  --lightThemeScrollbarColor: #eee;
+  --lightThemeScrollbarThumbColor: #ccc;
+  --lightThemeScrollbarThumbHoverColor: #999;
+}

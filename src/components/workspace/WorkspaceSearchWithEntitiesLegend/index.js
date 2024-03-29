@@ -1,0 +1,2 @@
+import WorkspaceSearchWithEntitiesLegend from './WorkspaceSearchWithEntitiesLegend';
+export default WorkspaceSearchWithEntitiesLegend;

@@ -1,0 +1,46 @@
+.nlm-pdf-annotation-label-hilighter {
+  opacity: 0.2;
+  color: transparent;
+  padding: 5px;
+}
+.nlm-pdf-annotation-label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-indent: 5px;
+  z-index: 2;
+}
+.nlm-pdf-annotations > ul > li {
+  margin: 0 !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+.annotations-button {
+  position: relative;
+  transform: rotate(90deg);
+  top: 78px;
+  left: -78px;
+  width: 180px;
+}
+.nlm-pdf-selected-annotations {
+  position: absolute;
+  top: -6px;
+  right: 4px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 12px;
+  transform: rotate(270deg);
+  height: 30px;
+}
+.nlm-pdf-selected-annotations .ant-badge-status {
+  line-height: 7px;
+  vertical-align: baseline;
+  flex: 1 0 50%;
+}
+.nlm-pdf-selected-annotations .ant-badge-status-dot {
+  width: 4px;
+  height: 4px;
+}
+.nlm-pdf-selected-annotations .ant-badge-status-text {
+  margin-left: 0;
+}

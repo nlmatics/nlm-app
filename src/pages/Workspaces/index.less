@@ -1,0 +1,30 @@
+.nlm-page-workspaces {
+  padding: 10px 15px;
+  .ant-page-header-content {
+    padding: 0;
+  }
+  &__tabs .ant-tabs-content-holder {
+    height: calc(100vh - 150px);
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+  .ant-card {
+    &-meta {
+      justify-content: center;
+    }
+    .ant-card-head-title {
+      font-weight: 400;
+      a {
+        color: inherit;
+      }
+    }
+    .ant-card-actions {
+      li {
+        margin: 5px 0;
+      }
+    }
+    &.ant-card-hoverable:hover {
+      border-color: var(--sa-brand-color);
+    }
+  }
+}

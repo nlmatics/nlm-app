@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+body {
+  font-family: 'Open Sans', sans-serif !important;
+}
+body .ag-theme-alpine,
+body .ag-theme-alpine-dark {
+  font-family: 'Open Sans', sans-serif !important;
+}
+@tree-directory-selected-bg: #6972f1;

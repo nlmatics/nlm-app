@@ -1,0 +1,67 @@
+.nlm-logo {
+  padding: 5px 0;
+  margin: 25px 0 50px 0;
+}
+.nlm-logo-short {
+  width: 40px;
+  text-align: center;
+  margin-bottom: 37.5px;
+}
+.nlm-logo-short img {
+  width: 50px;
+}
+.nlm-logo-full {
+  width: 80px;
+  text-align: center;
+  margin: 25px 0 30px 5px;
+}
+.nlm-logo-full img {
+  width: 80px;
+}
+.nlm-sider-menu {
+  height: calc(100vh - 155px);
+  position: relative;
+}
+.nlm-sider-menu .nlm-sider-menu-item {
+  height: 60px;
+  padding: 10px !important;
+  text-align: center;
+  margin: 0;
+  cursor: pointer;
+}
+.nlm-sider-menu-item .nlm-menu-icon {
+  line-height: 0;
+}
+.nlm-sider-menu-item label {
+  display: block;
+  font-size: 11px;
+  font-weight: bold;
+  cursor: pointer;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  line-height: 30px;
+}
+.nlm-sider-menu .nlm-sider-menu-item.nlm-user {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 10px;
+}
+
+.nlm-sider-menu.ant-menu-vertical .ant-menu-submenu-title {
+  padding: 0 30px !important;
+}
+
+.nlm-sider-menu.nlm-sider-menu.ant-menu-vertical {
+  border: none;
+}
+
+.nlm-sider-menu.ant-menu-inline-collapsed.ant-menu-vertical
+  .ant-menu-submenu-title {
+  padding: 0 10px !important;
+}
+
+.nlm-sider-menu .nlm-user .ant-menu-title-content,
+.nlm-sider-menu .ant-menu-submenu-arrow {
+  display: none !important;
+}

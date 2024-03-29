@@ -1,0 +1,33 @@
+.nlm-search {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  margin-left: 20px;
+  overflow-y: auto;
+  overflow-x: hidden;
+
+  &__logo-wrapper {
+    position: sticky;
+    top: 25px;
+  }
+  &__logo {
+    cursor: pointer;
+  }
+  .nlm-workspace-search-result {
+    height: calc(100vh - 190px);
+  }
+  .nlm-home__results {
+    .nlm-search__search {
+      justify-content: left;
+    }
+  }
+  &__field-filters {
+    position: sticky;
+    top: 90px;
+  }
+  .nlm-entities-legend {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+  }
+}
