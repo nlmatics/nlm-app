@@ -1,0 +1,3922 @@
+{
+    "recentDeals": {
+        "documents": [
+            {
+                "checksum": "68d1497e14e2c861089a2464e2467fdad3db79014efea1888a6eab9197157356",
+                "createdOn": "2023-06-29T21:21:36Z",
+                "docLocation": "51aeb062/6f4a1bfe/root/d62f01a4",
+                "fileSize": 2016942.0,
+                "id": "d62f01a4",
+                "inferred_title": "EX11 d494019dex11htm EX11",
+                "isDeleted": false,
+                "meta": {
+                    "cik": "1823945",
+                    "description": "First Amendment to the Amended and Restated Credit Agreement, dated as of June\u00a029, 2023, by and among Blue Owl Finance LLC, Blue Owl Capital Holdings LP, Blue Owl Capital Carry LP, the subsidiary guarantors party thereto, the several banks and other financial institutions or entities party thereto and MUFG Bank, Ltd. ",
+                    "pubDate": "2023-06-29T00:00:00Z",
+                    "source": "SEC-EDGAR",
+                    "title": "BLUE OWL CAPITAL INC.",
+                    "type": "Credit Agreements",
+                    "url": "https://www.sec.gov/Archives/edgar/data/1823945/000119312523178740/d494019dex11.htm"
+                },
+                "mimeType": "application/pdf",
+                "name": "BLUE OWL CAPITAL INC. - 2023 QTR2.pdf",
+                "parentFolder": "root",
+                "renderedFileLocation": "file_data/d62f01a4",
+                "renderedJsonFileLocation": "file_data/d62f01a4_json",
+                "sourceUrl": "",
+                "status": "ingest_ok",
+                "userId": "51aeb062",
+                "workspaceId": "6f4a1bfe",
+                "fieldValues": {
+                    "030632b0-2568-4e1b-81a2-74b492dde9e9": {},
+                    "04213a7b-2555-47c1-a093-4edaa43b6734": {},
+                    "05f26d56-262f-427e-9056-f8c4d676fabd": {},
+                    "060b0191-8686-4722-aa22-48a35ad4c8f7": {
+                        "answer": "$25,000,000",
+                        "answer_details": {
+                            "formatted_value": "$25,000,000",
+                            "raw_value": 25000000.0
+                        },
+                        "formatted_answer": "$25,000,000"
+                    },
+                    "066a74c3-1746-4172-9cb4-35eef9b354e9": {},
+                    "09f753eb-7a06-4e0d-9d71-6e770c48c542": {},
+                    "0a1116ce-fa05-4431-8fb2-538f0cc52d6a": {},
+                    "0b46084f-ca1c-4759-900a-68479a33bd2f": {},
+                    "14e8c6d8-353b-4925-a662-36ecd9f0547a": {},
+                    "15518c91": {},
+                    "15bced5e-6ac3-446a-b7b8-7e54ae7ade9c": {},
+                    "1646f71c": {},
+                    "1a7e903d-c6e2-443a-8fd8-2bdb27398963": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "1d7dbd62-e6e6-4340-9534-e7a18baf62cd": {},
+                    "1e539c7d-3f8d-43b2-915d-6a4a02b38446": {},
+                    "1f4a64f5": {},
+                    "24b08888": {},
+                    "24c3e638-39aa-49f8-a1a3-9003afd5b3d8": {},
+                    "2a5f60a4": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "31674357-7f35-4f7f-ac29-5f0168e8df5c": {},
+                    "3275c58e-1711-4c0a-b944-d19f8f63579e": {},
+                    "32e88d80-0acc-468b-8457-ea2cabcffcb5": {},
+                    "32f53e94": {},
+                    "354bb7b": {},
+                    "363e7026-d6bf-49ad-b463-a7257cfde124": {
+                        "answer": "BLUE OWL FINANCE LLC",
+                        "answer_details": {
+                            "formatted_value": "BLUE OWL FINANCE LLC",
+                            "raw_value": "BLUE OWL FINANCE LLC"
+                        },
+                        "formatted_answer": "BLUE OWL FINANCE LLC"
+                    },
+                    "365067fb-698f-4e34-b5df-ff33691e1bbf": {},
+                    "3c7cadff-4b85-4e62-be20-46b49f4dfe3e": {},
+                    "3d44b6a1-9873-4a66-ab0b-c0bc8819aa05": {
+                        "answer": "Yes",
+                        "answer_details": {
+                            "formatted_value": "Yes",
+                            "raw_value": "Yes"
+                        },
+                        "formatted_answer": "Yes"
+                    },
+                    "4073792a-8c93-4aed-9170-61ad88c84457": {},
+                    "413d7f7d-dc35-4ac5-abf3-216b5a53a239": {},
+                    "417b6e81": {
+                        "answer": "09581B103 G03707109",
+                        "answer_details": {
+                            "formatted_value": "09581B103 G03707109",
+                            "raw_value": "09581B103 G03707109"
+                        },
+                        "formatted_answer": "09581B103 G03707109"
+                    },
+                    "42b6fbd7-0458-4f96-807a-a34c52a8daf0": {},
+                    "43ea9e24-95ef-44ef-9ca3-29c40d89ab0a": {
+                        "answer": "No",
+                        "answer_details": {
+                            "formatted_value": "No",
+                            "raw_value": "No"
+                        },
+                        "formatted_answer": "No"
+                    },
+                    "4a768eae-5302-441e-bd80-b916da5f864c": {
+                        "answer": "",
+                        "answer_details": {},
+                        "formatted_answer": ""
+                    },
+                    "4b2de70a-58fe-4aa9-a5e5-2e5ff7342e7a": {},
+                    "4c946063": {
+                        "answer": "25%",
+                        "answer_details": {
+                            "formatted_value": "25%",
+                            "percent_label": "%",
+                            "raw_value": 25.0
+                        },
+                        "formatted_answer": "25%"
+                    },
+                    "52707a2f-c7c7-4a4a-a709-eea4b059fc63": {},
+                    "5399dcae-59ec-423b-9bc1-150ce8e1ff56": {},
+                    "5539ec3f-c7a7-43f2-bf93-5c14a36dabf2": {},
+                    "599e4089": {},
+                    "5a388a6c-1eac-45af-b185-c6e815680eb7": {
+                        "answer": "Required Lenders, the Administrative Agent and each Loan Party party to the relevant Loan Document",
+                        "answer_details": {
+                            "currency_symbol": null,
+                            "formatted_value": "",
+                            "raw_value": null,
+                            "unit": null
+                        },
+                        "formatted_answer": ""
+                    },
+                    "5aad38b0": {},
+                    "5b18c6ef-7ea0-4734-8c02-277246ba78cd": {},
+                    "5ce3c70e": {
+                        "answer": "one hundred twenty (120) days",
+                        "answer_details": {
+                            "formatted_value": "one hundred twenty (120) days",
+                            "raw_value": 10368000000.0,
+                            "time_unit": "day",
+                            "time_value": 120.0
+                        },
+                        "formatted_answer": "one hundred twenty (120) days"
+                    },
+                    "606ca8b2-a6ee-45ac-8b53-32076225c7f3": {},
+                    "630689ea-5904-4bcf-8a77-f084e81a14c1": {},
+                    "63bc2fc2-6999-4249-aa28-d96ed463b8a2": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "64e3e2ff-afbf-4964-99db-c41d5a026cd4": {},
+                    "656c3667-56b6-423f-bd9b-7b984bd019e9": {},
+                    "67f65334-8d38-4506-b04b-547552b66865": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "68324a21-59da-47a2-aa8f-a1122054deac": {},
+                    "68e7e09d": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "692d0df7-937c-4159-97af-b281b8dfe860": {},
+                    "6b87ecf8-68cb-4c5f-befc-71bcadc1cb6f": {},
+                    "6c2a43dc-1bb5-4a9f-8408-e5d677c2b08e": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "6efc9cdf": {
+                        "answer": "Yes",
+                        "answer_details": {
+                            "formatted_value": "Yes",
+                            "raw_value": "Yes"
+                        },
+                        "formatted_answer": "Yes"
+                    },
+                    "70416e09-97a5-4f7c-97d1-9078a6f1519f": {},
+                    "733756fc-1e75-4dba-b292-6a074725d109": {},
+                    "7b2f05ac": {
+                        "answer": "3.50 to 1.00",
+                        "answer_details": {
+                            "formatted_value": "3.50 to 1.00",
+                            "raw_value": "3.50 to 1.00"
+                        },
+                        "formatted_answer": "3.50 to 1.00"
+                    },
+                    "7bc7fc9e-4562-42b1-bf6c-9d9e2db92974": {
+                        "answer": "one or more banks or other entities",
+                        "answer_details": {
+                            "formatted_value": "one or more banks or other entities",
+                            "raw_value": "one or more banks or other entities"
+                        },
+                        "formatted_answer": "one or more banks or other entities"
+                    },
+                    "7d3f29c0": {
+                        "answer": "6282",
+                        "answer_details": {
+                            "formatted_value": "6282",
+                            "raw_value": "6282"
+                        },
+                        "formatted_answer": "6282"
+                    },
+                    "7e76a922-075f-4314-b934-57f08813773b": {},
+                    "7ffe09e0-136f-4ec1-a052-ac4ce7094701": {},
+                    "810186ee-7476-4229-ad01-92145c1dc512": {},
+                    "8227f3ec": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "844330d6": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "85e2535": {},
+                    "85e3ca2e": {
+                        "answer": "Finance Insurance And Real Estate",
+                        "answer_details": {
+                            "formatted_value": "Finance Insurance And Real Estate",
+                            "raw_value": "Finance Insurance And Real Estate"
+                        },
+                        "formatted_answer": "Finance Insurance And Real Estate"
+                    },
+                    "86ec1493-2ffb-4b6c-bb5e-8b34945bd455": {},
+                    "91e742cb-8a43-445e-8e1b-f580b8600c92": {},
+                    "9489b5a2-6b7a-468c-baba-143e9348a0a3": {
+                        "answer": "Yes",
+                        "answer_details": {
+                            "formatted_value": "Yes",
+                            "raw_value": "Yes"
+                        },
+                        "formatted_answer": "Yes"
+                    },
+                    "9a0c3e0b": {
+                        "answer": "sixty (60) days",
+                        "answer_details": {
+                            "formatted_value": "sixty (60) days",
+                            "raw_value": 5184000000.0,
+                            "time_unit": "day",
+                            "time_value": 60.0
+                        },
+                        "formatted_answer": "sixty (60) days"
+                    },
+                    "9d4e414b": {
+                        "answer": "Asset Management",
+                        "answer_details": {
+                            "formatted_value": "Asset Management",
+                            "raw_value": "Asset Management"
+                        },
+                        "formatted_answer": "Asset Management"
+                    },
+                    "9d59a3d1-c980-41f4-bdf5-7e22e58be3be": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "a380227c": {
+                        "answer": "Investment Advice",
+                        "answer_details": {
+                            "formatted_value": "Investment Advice",
+                            "raw_value": "Investment Advice"
+                        },
+                        "formatted_answer": "Investment Advice"
+                    },
+                    "a46d05a0": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "a4a94057-6d75-4616-9eca-bf5470801521": {},
+                    "a5d01395-1ff3-4ba0-8b7f-be989d88b0f6": {},
+                    "a6cb958e-557b-4953-beb9-4731757a902e": {},
+                    "a7316d80-fc77-46f1-895a-519137362b82": {},
+                    "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                        "answer": "Kirkland & Ellis LLP",
+                        "answer_details": {
+                            "formatted_value": "Kirkland & Ellis LLP",
+                            "raw_value": "Kirkland & Ellis LLP"
+                        },
+                        "formatted_answer": "Kirkland & Ellis LLP"
+                    },
+                    "a784b56c-bedc-4da3-ac32-d0aa74779164": {
+                        "answer": "No",
+                        "answer_details": {
+                            "formatted_value": "No",
+                            "raw_value": "No"
+                        },
+                        "formatted_answer": "No"
+                    },
+                    "abb08595-e1b8-4537-8960-6d2d7b28dea7": {
+                        "answer": "Amended Credit Agreement",
+                        "answer_details": {
+                            "formatted_value": "Amended Credit Agreement",
+                            "raw_value": "Amended Credit Agreement"
+                        },
+                        "formatted_answer": "Amended Credit Agreement"
+                    },
+                    "ad9f2293-3441-410e-b18d-38075285b919": {},
+                    "af8df660-2864-47b0-a912-b7dae2c6d223": {
+                        "answer": "(a) The Borrower and any one or more Lenders",
+                        "answer_details": {
+                            "currency_symbol": null,
+                            "formatted_value": "1.00",
+                            "raw_value": 1,
+                            "unit": null
+                        },
+                        "formatted_answer": "1.00"
+                    },
+                    "b01571d9-9923-47bd-a1d3-2305f4325082": {},
+                    "b0a4aba1-1ce3-4819-9eb1-1f9eee31358f": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "b14d9891-71ca-4acc-8e62-5eb139d7eafe": {},
+                    "b370d085": {
+                        "answer": "June 15, 2022",
+                        "answer_details": {
+                            "formatted_value": "June 15, 2022",
+                            "raw_value": 1655251200.0
+                        },
+                        "formatted_answer": "June 15, 2022"
+                    },
+                    "b6f80090-49e5-47b5-8218-f156f6faf23e": {},
+                    "b70fc663-043a-4905-b6f1-bdddfd07baa2": {},
+                    "b7b5bcdd-a5a9-4d03-899f-1cb778c62bcc": {
+                        "answer": "Borrower, the Administrative Agent or any Issuing Lender",
+                        "answer_details": {
+                            "formatted_value": "Borrower, the Administrative Agent or any Issuing Lender",
+                            "raw_value": "Borrower, the Administrative Agent or any Issuing Lender"
+                        },
+                        "formatted_answer": "Borrower, the Administrative Agent or any Issuing Lender"
+                    },
+                    "bb16c5a2": {},
+                    "bc357474-3e78-4cd0-b6d1-d8fd015c4d78": {},
+                    "be3289fc": {
+                        "answer": "(f) a judgment or judgments for the payment of money in an amount, individually or in the aggregate, of at least $25,000,000",
+                        "answer_details": {
+                            "currency_symbol": "$",
+                            "formatted_value": "USD 25,000,000.00",
+                            "raw_value": 25000000.0,
+                            "unit": "USD"
+                        },
+                        "formatted_answer": "USD 25,000,000.00"
+                    },
+                    "bfde7ca3-62ba-4ceb-94ac-8783d891e284": {
+                        "answer": "revolving credit",
+                        "answer_details": {
+                            "formatted_value": "revolving credit",
+                            "raw_value": "revolving credit"
+                        },
+                        "formatted_answer": "revolving credit"
+                    },
+                    "c2dca882-97ce-42ca-b570-94bbd168e090": {},
+                    "c2f2de11": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "c38754cf-201c-4ad9-ba5c-5a838194d316": {},
+                    "ca0580a6-1acb-4d86-99f7-6eb90d52190e": {},
+                    "cc1aa0f4-9ae6-4281-abd1-9001a74d8805": {
+                        "answer": "MUFG BANK, LTD., BOFA SECURITIES, INC., BMO HARRIS BANK, N.A., CITIBANK, N.A., JPMORGAN CHASE BANK, N.A., SUMITOMO MITSUI BANKING CORPORATION, TRUIST SECURITIES, INC. and WELLS FARGO SECURITIES, LLC",
+                        "answer_details": {
+                            "formatted_value": "MUFG BANK, LTD., BOFA SECURITIES, INC., BMO HARRIS BANK, N.A., CITIBANK, N.A., JPMORGAN CHASE BANK, N.A., SUMITOMO MITSUI BANKING CORPORATION, TRUIST SECURITIES, INC. and WELLS FARGO SECURITIES, LLC",
+                            "raw_value": "MUFG BANK, LTD., BOFA SECURITIES, INC., BMO HARRIS BANK, N.A., CITIBANK, N.A., JPMORGAN CHASE BANK, N.A., SUMITOMO MITSUI BANKING CORPORATION, TRUIST SECURITIES, INC. and WELLS FARGO SECURITIES, LLC"
+                        },
+                        "formatted_answer": "MUFG BANK, LTD., BOFA SECURITIES, INC., BMO HARRIS BANK, N.A., CITIBANK, N.A., JPMORGAN CHASE BANK, N.A., SUMITOMO MITSUI BANKING CORPORATION, TRUIST SECURITIES, INC. and WELLS FARGO SECURITIES, LLC"
+                    },
+                    "cd24aea4-d53c-474c-8857-a12c0a5940a0": {
+                        "answer": "Yes",
+                        "answer_details": {
+                            "formatted_value": "Yes",
+                            "raw_value": "Yes"
+                        },
+                        "formatted_answer": "Yes"
+                    },
+                    "ce18167c-2dc9-4980-87b8-69fc1fa1a78a": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "d565f54b": {},
+                    "d7e9d9e4-a520-43ac-bc46-ec9433ef544a": {},
+                    "d9e7fc7e-63e5-4dc5-b6c6-a4ee053c2ee6": {},
+                    "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                        "answer": "MUFG BANK, LTD.",
+                        "answer_details": {
+                            "formatted_value": "MUFG BANK, LTD.",
+                            "raw_value": "MUFG BANK, LTD."
+                        },
+                        "formatted_answer": "MUFG BANK, LTD."
+                    },
+                    "db81ce5a-c854-4bb3-b318-fd0ab60a55aa": {},
+                    "dc2a482c": {
+                        "answer": "OWL",
+                        "answer_details": {
+                            "formatted_value": "OWL",
+                            "raw_value": "OWL"
+                        },
+                        "formatted_answer": "OWL"
+                    },
+                    "dc2e8920": {
+                        "answer": "AMENDMENT NO. 1",
+                        "answer_details": {
+                            "formatted_value": "AMENDMENT NO. 1",
+                            "raw_value": "AMENDMENT NO. 1"
+                        },
+                        "formatted_answer": "AMENDMENT NO. 1"
+                    },
+                    "de16d3d1": {},
+                    "e813fc3d-7508-494e-83db-698bd211b5c9": {},
+                    "eaa0c685-dfec-40d2-8de6-a9e5df2de68b": {},
+                    "eb5cf294": {
+                        "answer": "Yes",
+                        "answer_details": {
+                            "formatted_value": "Yes",
+                            "raw_value": "Yes"
+                        },
+                        "formatted_answer": "Yes"
+                    },
+                    "edc92cd3-97f0-4827-a8e8-3e8fd7a6ad3d": {},
+                    "efcb538d": {
+                        "answer": "Financial Services",
+                        "answer_details": {
+                            "formatted_value": "Financial Services",
+                            "raw_value": "Financial Services"
+                        },
+                        "formatted_answer": "Financial Services"
+                    },
+                    "f114e594": {},
+                    "f4a28896": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "f4cc0354-3a70-4b6f-b125-04245aac2807": {},
+                    "f60f5865-4451-403c-b29a-8ac707c1e860": {},
+                    "f75f1f4e-4748-465a-8159-57c2d94ce789": {
+                        "answer": "Ineligible Assignee",
+                        "answer_details": {
+                            "formatted_value": "Ineligible Assignee",
+                            "raw_value": "Ineligible Assignee"
+                        },
+                        "formatted_answer": "Ineligible Assignee"
+                    },
+                    "f9df33c5-09b3-4cef-9eeb-17ef6f992b32": {},
+                    "ffae3e85": {},
+                    "ffd8ec2a-c44b-4839-9a84-33828e56d2da": {}
+                }
+            },
+            {
+                "checksum": "581a718ecc051891a525e7d4fbe2bb058b5ce90ba17895a17d829dff662a5124",
+                "createdOn": "2023-06-29T21:08:26Z",
+                "docLocation": "51aeb062/6f4a1bfe/root/e7c839e3",
+                "fileSize": 3074193.0,
+                "id": "e7c839e3",
+                "inferred_title": "LOAN FACILITY",
+                "isDeleted": false,
+                "meta": {
+                    "cik": "1407583",
+                    "description": "Loan Agreement, dated as of June 23, 2023, by and among Bunker Hill Mining Corp., as borrower, Silver Valley Metals Corp., as guarantor, and the lenders and agent named therein",
+                    "pubDate": "2023-06-29T00:00:00Z",
+                    "source": "SEC-EDGAR",
+                    "title": "Bunker Hill Mining Corp.",
+                    "type": "Credit Agreements",
+                    "url": "https://www.sec.gov/Archives/edgar/data/1407583/000149315223022955/ex10-2.htm"
+                },
+                "mimeType": "application/pdf",
+                "name": "Bunker Hill Mining Corp. - 2023 QTR2.pdf",
+                "parentFolder": "root",
+                "renderedFileLocation": "file_data/e7c839e3",
+                "renderedJsonFileLocation": "file_data/e7c839e3_json",
+                "sourceUrl": "",
+                "status": "ingest_ok",
+                "userId": "51aeb062",
+                "workspaceId": "6f4a1bfe",
+                "fieldValues": {
+                    "030632b0-2568-4e1b-81a2-74b492dde9e9": {},
+                    "04213a7b-2555-47c1-a093-4edaa43b6734": {},
+                    "05f26d56-262f-427e-9056-f8c4d676fabd": {},
+                    "060b0191-8686-4722-aa22-48a35ad4c8f7": {},
+                    "066a74c3-1746-4172-9cb4-35eef9b354e9": {},
+                    "09f753eb-7a06-4e0d-9d71-6e770c48c542": {},
+                    "0a1116ce-fa05-4431-8fb2-538f0cc52d6a": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "0b46084f-ca1c-4759-900a-68479a33bd2f": {},
+                    "14e8c6d8-353b-4925-a662-36ecd9f0547a": {},
+                    "15518c91": {
+                        "answer": "operation of the Project",
+                        "answer_details": {
+                            "formatted_value": "operation of the Project",
+                            "raw_value": "operation of the Project"
+                        },
+                        "formatted_answer": "operation of the Project"
+                    },
+                    "15bced5e-6ac3-446a-b7b8-7e54ae7ade9c": {},
+                    "1646f71c": {},
+                    "1a7e903d-c6e2-443a-8fd8-2bdb27398963": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "1d7dbd62-e6e6-4340-9534-e7a18baf62cd": {},
+                    "1e539c7d-3f8d-43b2-915d-6a4a02b38446": {},
+                    "1f4a64f5": {},
+                    "24b08888": {},
+                    "24c3e638-39aa-49f8-a1a3-9003afd5b3d8": {},
+                    "2a5f60a4": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "31674357-7f35-4f7f-ac29-5f0168e8df5c": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "3275c58e-1711-4c0a-b944-d19f8f63579e": {},
+                    "32e88d80-0acc-468b-8457-ea2cabcffcb5": {},
+                    "32f53e94": {},
+                    "354bb7b": {},
+                    "363e7026-d6bf-49ad-b463-a7257cfde124": {
+                        "answer": "BUNKER HILL MINING CORP.",
+                        "answer_details": {
+                            "formatted_value": "BUNKER HILL MINING CORP.",
+                            "raw_value": "BUNKER HILL MINING CORP."
+                        },
+                        "formatted_answer": "BUNKER HILL MINING CORP."
+                    },
+                    "365067fb-698f-4e34-b5df-ff33691e1bbf": {},
+                    "3c7cadff-4b85-4e62-be20-46b49f4dfe3e": {},
+                    "3d44b6a1-9873-4a66-ab0b-c0bc8819aa05": {},
+                    "4073792a-8c93-4aed-9170-61ad88c84457": {},
+                    "413d7f7d-dc35-4ac5-abf3-216b5a53a239": {},
+                    "417b6e81": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "42b6fbd7-0458-4f96-807a-a34c52a8daf0": {},
+                    "43ea9e24-95ef-44ef-9ca3-29c40d89ab0a": {},
+                    "4a768eae-5302-441e-bd80-b916da5f864c": {
+                        "answer": "",
+                        "answer_details": {},
+                        "formatted_answer": ""
+                    },
+                    "4b2de70a-58fe-4aa9-a5e5-2e5ff7342e7a": {},
+                    "4c946063": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "52707a2f-c7c7-4a4a-a709-eea4b059fc63": {},
+                    "5399dcae-59ec-423b-9bc1-150ce8e1ff56": {},
+                    "5539ec3f-c7a7-43f2-bf93-5c14a36dabf2": {},
+                    "599e4089": {},
+                    "5a388a6c-1eac-45af-b185-c6e815680eb7": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "5aad38b0": {},
+                    "5b18c6ef-7ea0-4734-8c02-277246ba78cd": {},
+                    "5ce3c70e": {},
+                    "606ca8b2-a6ee-45ac-8b53-32076225c7f3": {},
+                    "630689ea-5904-4bcf-8a77-f084e81a14c1": {},
+                    "63bc2fc2-6999-4249-aa28-d96ed463b8a2": {},
+                    "64e3e2ff-afbf-4964-99db-c41d5a026cd4": {},
+                    "656c3667-56b6-423f-bd9b-7b984bd019e9": {},
+                    "67f65334-8d38-4506-b04b-547552b66865": {},
+                    "68324a21-59da-47a2-aa8f-a1122054deac": {},
+                    "68e7e09d": {
+                        "answer": "TWENTY-ONE MILLION dollars",
+                        "answer_details": {
+                            "currency_symbol": "dollar",
+                            "formatted_value": "USD 21,000,000.00",
+                            "raw_value": 21000000,
+                            "unit": "USD"
+                        },
+                        "formatted_answer": "USD 21,000,000.00"
+                    },
+                    "692d0df7-937c-4159-97af-b281b8dfe860": {},
+                    "6b87ecf8-68cb-4c5f-befc-71bcadc1cb6f": {},
+                    "6c2a43dc-1bb5-4a9f-8408-e5d677c2b08e": {},
+                    "6efc9cdf": {
+                        "answer": "Yes",
+                        "answer_details": {
+                            "formatted_value": "Yes",
+                            "raw_value": "Yes"
+                        },
+                        "formatted_answer": "Yes"
+                    },
+                    "70416e09-97a5-4f7c-97d1-9078a6f1519f": {},
+                    "733756fc-1e75-4dba-b292-6a074725d109": {},
+                    "7b2f05ac": {},
+                    "7bc7fc9e-4562-42b1-bf6c-9d9e2db92974": {},
+                    "7d3f29c0": {
+                        "answer": "1000",
+                        "answer_details": {
+                            "formatted_value": "1000",
+                            "raw_value": "1000"
+                        },
+                        "formatted_answer": "1000"
+                    },
+                    "7e76a922-075f-4314-b934-57f08813773b": {},
+                    "7ffe09e0-136f-4ec1-a052-ac4ce7094701": {},
+                    "810186ee-7476-4229-ad01-92145c1dc512": {},
+                    "8227f3ec": {},
+                    "844330d6": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "85e2535": {},
+                    "85e3ca2e": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "86ec1493-2ffb-4b6c-bb5e-8b34945bd455": {},
+                    "91e742cb-8a43-445e-8e1b-f580b8600c92": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "9489b5a2-6b7a-468c-baba-143e9348a0a3": {},
+                    "9a0c3e0b": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "9d4e414b": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "9d59a3d1-c980-41f4-bdf5-7e22e58be3be": {},
+                    "a380227c": {
+                        "answer": "Metal Mining",
+                        "answer_details": {
+                            "formatted_value": "Metal Mining",
+                            "raw_value": "Metal Mining"
+                        },
+                        "formatted_answer": "Metal Mining"
+                    },
+                    "a46d05a0": {},
+                    "a4a94057-6d75-4616-9eca-bf5470801521": {},
+                    "a5d01395-1ff3-4ba0-8b7f-be989d88b0f6": {},
+                    "a6cb958e-557b-4953-beb9-4731757a902e": {},
+                    "a7316d80-fc77-46f1-895a-519137362b82": {},
+                    "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                        "answer": "",
+                        "answer_details": {},
+                        "formatted_answer": ""
+                    },
+                    "a784b56c-bedc-4da3-ac32-d0aa74779164": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "abb08595-e1b8-4537-8960-6d2d7b28dea7": {
+                        "answer": "LOAN",
+                        "answer_details": {
+                            "formatted_value": "LOAN",
+                            "raw_value": "LOAN"
+                        },
+                        "formatted_answer": "LOAN"
+                    },
+                    "ad9f2293-3441-410e-b18d-38075285b919": {},
+                    "af8df660-2864-47b0-a912-b7dae2c6d223": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "b01571d9-9923-47bd-a1d3-2305f4325082": {},
+                    "b0a4aba1-1ce3-4819-9eb1-1f9eee31358f": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "b14d9891-71ca-4acc-8e62-5eb139d7eafe": {},
+                    "b370d085": {
+                        "answer": "June 23, 2023",
+                        "answer_details": {
+                            "formatted_value": "June 23, 2023",
+                            "raw_value": 1687478400.0
+                        },
+                        "formatted_answer": "June 23, 2023"
+                    },
+                    "b6f80090-49e5-47b5-8218-f156f6faf23e": {},
+                    "b70fc663-043a-4905-b6f1-bdddfd07baa2": {},
+                    "b7b5bcdd-a5a9-4d03-899f-1cb778c62bcc": {},
+                    "bb16c5a2": {},
+                    "bc357474-3e78-4cd0-b6d1-d8fd015c4d78": {},
+                    "be3289fc": {
+                        "answer": "US$17,000,000",
+                        "answer_details": {
+                            "currency_symbol": "US$",
+                            "formatted_value": "USD 17,000,000.00",
+                            "raw_value": 17000000.0,
+                            "unit": "USD"
+                        },
+                        "formatted_answer": "USD 17,000,000.00"
+                    },
+                    "bfde7ca3-62ba-4ceb-94ac-8783d891e284": {
+                        "answer": "a credit facility",
+                        "answer_details": {
+                            "formatted_value": "a credit facility",
+                            "raw_value": "a credit facility"
+                        },
+                        "formatted_answer": "a credit facility"
+                    },
+                    "c2dca882-97ce-42ca-b570-94bbd168e090": {},
+                    "c2f2de11": {
+                        "answer": "50%",
+                        "answer_details": {
+                            "formatted_value": "50%",
+                            "percent_label": "%",
+                            "raw_value": 50.0
+                        },
+                        "formatted_answer": "50%"
+                    },
+                    "c38754cf-201c-4ad9-ba5c-5a838194d316": {},
+                    "ca0580a6-1acb-4d86-99f7-6eb90d52190e": {},
+                    "cc1aa0f4-9ae6-4281-abd1-9001a74d8805": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "cd24aea4-d53c-474c-8857-a12c0a5940a0": {},
+                    "ce18167c-2dc9-4980-87b8-69fc1fa1a78a": {},
+                    "d565f54b": {},
+                    "d7e9d9e4-a520-43ac-bc46-ec9433ef544a": {},
+                    "d9e7fc7e-63e5-4dc5-b6c6-a4ee053c2ee6": {},
+                    "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                        "answer": "Sprott Private Resource Streaming and Royalty (Collector), LP",
+                        "answer_details": {
+                            "formatted_value": "Sprott Private Resource Streaming and Royalty (Collector), LP",
+                            "raw_value": "Sprott Private Resource Streaming and Royalty (Collector), LP"
+                        },
+                        "formatted_answer": "Sprott Private Resource Streaming and Royalty (Collector), LP"
+                    },
+                    "db81ce5a-c854-4bb3-b318-fd0ab60a55aa": {},
+                    "dc2a482c": {
+                        "answer": "BHLL",
+                        "answer_details": {
+                            "formatted_value": "BHLL",
+                            "raw_value": "BHLL"
+                        },
+                        "formatted_answer": "BHLL"
+                    },
+                    "dc2e8920": {
+                        "answer": "fourth",
+                        "answer_details": {
+                            "formatted_value": "fourth",
+                            "raw_value": "fourth"
+                        },
+                        "formatted_answer": "fourth"
+                    },
+                    "de16d3d1": {},
+                    "e813fc3d-7508-494e-83db-698bd211b5c9": {},
+                    "eaa0c685-dfec-40d2-8de6-a9e5df2de68b": {},
+                    "eb5cf294": {},
+                    "edc92cd3-97f0-4827-a8e8-3e8fd7a6ad3d": {},
+                    "efcb538d": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "f114e594": {},
+                    "f4a28896": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "f4cc0354-3a70-4b6f-b125-04245aac2807": {},
+                    "f60f5865-4451-403c-b29a-8ac707c1e860": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "f75f1f4e-4748-465a-8159-57c2d94ce789": {},
+                    "f9df33c5-09b3-4cef-9eeb-17ef6f992b32": {},
+                    "ffae3e85": {},
+                    "ffd8ec2a-c44b-4839-9a84-33828e56d2da": {}
+                }
+            },
+            {
+                "checksum": "ae716a3220b3b6437f28b7fc53d982b99cebf97d7178bae5e9420edd6954a92d",
+                "createdOn": "2023-06-29T20:43:06Z",
+                "docLocation": "51aeb062/6f4a1bfe/root/620931ef",
+                "fileSize": 142057.0,
+                "id": "620931ef",
+                "inferred_title": "Recitals",
+                "isDeleted": false,
+                "meta": {
+                    "cik": "1391127",
+                    "description": "Waiver and Tenth Amendment to Loan and Security Agreement between Edgio, Inc. (f/k/a Limelight Networks, Inc.) and Silicon Valley Bank, a division of First-Citizens Bank\u00a0& Trust Company (successor by purchase to the Federal Deposit Insurance Corporation as Receiver for Silicon Valley Bridge Bank, N.A. (as successor to Silicon Valley Bank)), dated June\u00a027, 2023 (incorporated by reference to Exhibit 10.14.09 to the Annual Report on Form 10-K (File No. 001-33508) filed on June\u00a029, 2023). ",
+                    "pubDate": "2023-06-29T00:00:00Z",
+                    "source": "SEC-EDGAR",
+                    "title": "Edgio, Inc.",
+                    "type": "Credit Agreements",
+                    "url": "http://www.sec.gov/Archives/edgar/data/1391127/000139112723000016/egio-12312022xex101409.htm"
+                },
+                "mimeType": "application/pdf",
+                "name": "Edgio, Inc. - 2023 QTR2.pdf",
+                "parentFolder": "root",
+                "renderedFileLocation": "file_data/620931ef",
+                "renderedJsonFileLocation": "file_data/620931ef_json",
+                "sourceUrl": "",
+                "status": "ingest_ok",
+                "userId": "51aeb062",
+                "workspaceId": "6f4a1bfe",
+                "fieldValues": {
+                    "030632b0-2568-4e1b-81a2-74b492dde9e9": {},
+                    "04213a7b-2555-47c1-a093-4edaa43b6734": {},
+                    "05f26d56-262f-427e-9056-f8c4d676fabd": {},
+                    "060b0191-8686-4722-aa22-48a35ad4c8f7": {},
+                    "066a74c3-1746-4172-9cb4-35eef9b354e9": {},
+                    "09f753eb-7a06-4e0d-9d71-6e770c48c542": {},
+                    "0a1116ce-fa05-4431-8fb2-538f0cc52d6a": {},
+                    "0b46084f-ca1c-4759-900a-68479a33bd2f": {},
+                    "14e8c6d8-353b-4925-a662-36ecd9f0547a": {},
+                    "15518c91": {},
+                    "15bced5e-6ac3-446a-b7b8-7e54ae7ade9c": {},
+                    "1646f71c": {},
+                    "1a7e903d-c6e2-443a-8fd8-2bdb27398963": {},
+                    "1d7dbd62-e6e6-4340-9534-e7a18baf62cd": {},
+                    "1e539c7d-3f8d-43b2-915d-6a4a02b38446": {},
+                    "1f4a64f5": {},
+                    "24b08888": {},
+                    "24c3e638-39aa-49f8-a1a3-9003afd5b3d8": {},
+                    "2a5f60a4": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "31674357-7f35-4f7f-ac29-5f0168e8df5c": {},
+                    "3275c58e-1711-4c0a-b944-d19f8f63579e": {},
+                    "32e88d80-0acc-468b-8457-ea2cabcffcb5": {},
+                    "32f53e94": {},
+                    "354bb7b": {},
+                    "363e7026-d6bf-49ad-b463-a7257cfde124": {
+                        "answer": "SILICON VALLEY BANK, A DIVISION OF FIRSTCITIZENS BANK & TRUST COMPANY",
+                        "answer_details": {
+                            "formatted_value": "SILICON VALLEY BANK, A DIVISION OF FIRSTCITIZENS BANK & TRUST COMPANY",
+                            "raw_value": "SILICON VALLEY BANK, A DIVISION OF FIRSTCITIZENS BANK & TRUST COMPANY"
+                        },
+                        "formatted_answer": "SILICON VALLEY BANK, A DIVISION OF FIRSTCITIZENS BANK & TRUST COMPANY"
+                    },
+                    "365067fb-698f-4e34-b5df-ff33691e1bbf": {},
+                    "3c7cadff-4b85-4e62-be20-46b49f4dfe3e": {},
+                    "3d44b6a1-9873-4a66-ab0b-c0bc8819aa05": {},
+                    "4073792a-8c93-4aed-9170-61ad88c84457": {},
+                    "413d7f7d-dc35-4ac5-abf3-216b5a53a239": {},
+                    "417b6e81": {
+                        "answer": "53261M104",
+                        "answer_details": {
+                            "formatted_value": "53261M104",
+                            "raw_value": "53261M104"
+                        },
+                        "formatted_answer": "53261M104"
+                    },
+                    "42b6fbd7-0458-4f96-807a-a34c52a8daf0": {},
+                    "43ea9e24-95ef-44ef-9ca3-29c40d89ab0a": {},
+                    "4a768eae-5302-441e-bd80-b916da5f864c": {},
+                    "4b2de70a-58fe-4aa9-a5e5-2e5ff7342e7a": {},
+                    "4c946063": {},
+                    "52707a2f-c7c7-4a4a-a709-eea4b059fc63": {},
+                    "5399dcae-59ec-423b-9bc1-150ce8e1ff56": {},
+                    "5539ec3f-c7a7-43f2-bf93-5c14a36dabf2": {},
+                    "599e4089": {},
+                    "5a388a6c-1eac-45af-b185-c6e815680eb7": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "5aad38b0": {},
+                    "5b18c6ef-7ea0-4734-8c02-277246ba78cd": {},
+                    "5ce3c70e": {},
+                    "606ca8b2-a6ee-45ac-8b53-32076225c7f3": {},
+                    "630689ea-5904-4bcf-8a77-f084e81a14c1": {},
+                    "63bc2fc2-6999-4249-aa28-d96ed463b8a2": {},
+                    "64e3e2ff-afbf-4964-99db-c41d5a026cd4": {},
+                    "656c3667-56b6-423f-bd9b-7b984bd019e9": {},
+                    "67f65334-8d38-4506-b04b-547552b66865": {},
+                    "68324a21-59da-47a2-aa8f-a1122054deac": {},
+                    "68e7e09d": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "692d0df7-937c-4159-97af-b281b8dfe860": {},
+                    "6b87ecf8-68cb-4c5f-befc-71bcadc1cb6f": {},
+                    "6c2a43dc-1bb5-4a9f-8408-e5d677c2b08e": {},
+                    "6efc9cdf": {},
+                    "70416e09-97a5-4f7c-97d1-9078a6f1519f": {},
+                    "733756fc-1e75-4dba-b292-6a074725d109": {},
+                    "7b2f05ac": {},
+                    "7bc7fc9e-4562-42b1-bf6c-9d9e2db92974": {},
+                    "7d3f29c0": {
+                        "answer": "7389",
+                        "answer_details": {
+                            "formatted_value": "7389",
+                            "raw_value": "7389"
+                        },
+                        "formatted_answer": "7389"
+                    },
+                    "7e76a922-075f-4314-b934-57f08813773b": {},
+                    "7ffe09e0-136f-4ec1-a052-ac4ce7094701": {},
+                    "810186ee-7476-4229-ad01-92145c1dc512": {},
+                    "8227f3ec": {},
+                    "844330d6": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "85e2535": {},
+                    "85e3ca2e": {
+                        "answer": "Services",
+                        "answer_details": {
+                            "formatted_value": "Services",
+                            "raw_value": "Services"
+                        },
+                        "formatted_answer": "Services"
+                    },
+                    "86ec1493-2ffb-4b6c-bb5e-8b34945bd455": {},
+                    "91e742cb-8a43-445e-8e1b-f580b8600c92": {},
+                    "9489b5a2-6b7a-468c-baba-143e9348a0a3": {},
+                    "9a0c3e0b": {},
+                    "9d4e414b": {
+                        "answer": "Software - Infrastructure",
+                        "answer_details": {
+                            "formatted_value": "Software - Infrastructure",
+                            "raw_value": "Software - Infrastructure"
+                        },
+                        "formatted_answer": "Software - Infrastructure"
+                    },
+                    "9d59a3d1-c980-41f4-bdf5-7e22e58be3be": {},
+                    "a380227c": {
+                        "answer": "Services-Business Services Nec",
+                        "answer_details": {
+                            "formatted_value": "Services-Business Services Nec",
+                            "raw_value": "Services-Business Services Nec"
+                        },
+                        "formatted_answer": "Services-Business Services Nec"
+                    },
+                    "a46d05a0": {},
+                    "a4a94057-6d75-4616-9eca-bf5470801521": {},
+                    "a5d01395-1ff3-4ba0-8b7f-be989d88b0f6": {},
+                    "a6cb958e-557b-4953-beb9-4731757a902e": {},
+                    "a7316d80-fc77-46f1-895a-519137362b82": {},
+                    "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {},
+                    "a784b56c-bedc-4da3-ac32-d0aa74779164": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "abb08595-e1b8-4537-8960-6d2d7b28dea7": {
+                        "answer": "Loan and Security",
+                        "answer_details": {
+                            "formatted_value": "Loan and Security",
+                            "raw_value": "Loan and Security"
+                        },
+                        "formatted_answer": "Loan and Security"
+                    },
+                    "ad9f2293-3441-410e-b18d-38075285b919": {},
+                    "af8df660-2864-47b0-a912-b7dae2c6d223": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "b01571d9-9923-47bd-a1d3-2305f4325082": {},
+                    "b0a4aba1-1ce3-4819-9eb1-1f9eee31358f": {},
+                    "b14d9891-71ca-4acc-8e62-5eb139d7eafe": {},
+                    "b370d085": {
+                        "answer": "November 2, 2015",
+                        "answer_details": {
+                            "formatted_value": "November 2, 2015",
+                            "raw_value": 1446422400.0
+                        },
+                        "formatted_answer": "November 2, 2015"
+                    },
+                    "b6f80090-49e5-47b5-8218-f156f6faf23e": {},
+                    "b70fc663-043a-4905-b6f1-bdddfd07baa2": {},
+                    "b7b5bcdd-a5a9-4d03-899f-1cb778c62bcc": {},
+                    "bb16c5a2": {},
+                    "bc357474-3e78-4cd0-b6d1-d8fd015c4d78": {},
+                    "be3289fc": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "bfde7ca3-62ba-4ceb-94ac-8783d891e284": {},
+                    "c2dca882-97ce-42ca-b570-94bbd168e090": {},
+                    "c2f2de11": {},
+                    "c38754cf-201c-4ad9-ba5c-5a838194d316": {},
+                    "ca0580a6-1acb-4d86-99f7-6eb90d52190e": {},
+                    "cc1aa0f4-9ae6-4281-abd1-9001a74d8805": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "cd24aea4-d53c-474c-8857-a12c0a5940a0": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "ce18167c-2dc9-4980-87b8-69fc1fa1a78a": {},
+                    "d565f54b": {},
+                    "d7e9d9e4-a520-43ac-bc46-ec9433ef544a": {},
+                    "d9e7fc7e-63e5-4dc5-b6c6-a4ee053c2ee6": {},
+                    "db4a3d94-f466-4478-be5c-93fa927e293c": {},
+                    "db81ce5a-c854-4bb3-b318-fd0ab60a55aa": {},
+                    "dc2a482c": {
+                        "answer": "EGIO",
+                        "answer_details": {
+                            "formatted_value": "EGIO",
+                            "raw_value": "EGIO"
+                        },
+                        "formatted_answer": "EGIO"
+                    },
+                    "dc2e8920": {
+                        "answer": "Tenth",
+                        "answer_details": {
+                            "formatted_value": "Tenth",
+                            "raw_value": "Tenth"
+                        },
+                        "formatted_answer": "Tenth"
+                    },
+                    "de16d3d1": {},
+                    "e813fc3d-7508-494e-83db-698bd211b5c9": {},
+                    "eaa0c685-dfec-40d2-8de6-a9e5df2de68b": {},
+                    "eb5cf294": {},
+                    "edc92cd3-97f0-4827-a8e8-3e8fd7a6ad3d": {},
+                    "efcb538d": {
+                        "answer": "Technology",
+                        "answer_details": {
+                            "formatted_value": "Technology",
+                            "raw_value": "Technology"
+                        },
+                        "formatted_answer": "Technology"
+                    },
+                    "f114e594": {
+                        "answer": "fifty percent (50.0%)",
+                        "answer_details": {
+                            "currency_symbol": null,
+                            "formatted_value": "50.00",
+                            "raw_value": 50.0,
+                            "unit": null
+                        },
+                        "formatted_answer": "50.00"
+                    },
+                    "f4a28896": {},
+                    "f4cc0354-3a70-4b6f-b125-04245aac2807": {},
+                    "f60f5865-4451-403c-b29a-8ac707c1e860": {},
+                    "f75f1f4e-4748-465a-8159-57c2d94ce789": {},
+                    "f9df33c5-09b3-4cef-9eeb-17ef6f992b32": {},
+                    "ffae3e85": {},
+                    "ffd8ec2a-c44b-4839-9a84-33828e56d2da": {}
+                }
+            },
+            {
+                "checksum": "a2ec86d33546870412dd5daca03bd75d94014a340c4da04948cea68837110f1b",
+                "createdOn": "2023-06-29T20:31:52Z",
+                "docLocation": "51aeb062/6f4a1bfe/root/500375e7",
+                "fileSize": 176224.0,
+                "id": "500375e7",
+                "inferred_title": "EX101 ataxex10_1htm EX101",
+                "isDeleted": false,
+                "meta": {
+                    "cik": "1059142",
+                    "description": "Second Amendment to Amended and Restated Credit Agreement dated July 29, 2022 between America First Multifamily Investors, L.P. (now known as Greystone Housing Impact Investors LP) and Bankers Trust Company (incorporated herein by reference to Exhibit 10.1 to Form 8-K (No. 000-24843), filed by the Partnership on August 1, 2022).",
+                    "pubDate": "2023-06-29T00:00:00Z",
+                    "source": "SEC-EDGAR",
+                    "title": "Greystone Housing Impact Investors LP",
+                    "type": "Credit Agreements",
+                    "url": "https://www.sec.gov/Archives/edgar/data/1059142/000095017022013684/atax-ex10_1.htm"
+                },
+                "mimeType": "application/pdf",
+                "name": "Greystone Housing Impact Investors LP - 2023 QTR2_3.pdf",
+                "parentFolder": "root",
+                "renderedFileLocation": "file_data/500375e7",
+                "renderedJsonFileLocation": "file_data/500375e7_json",
+                "sourceUrl": "",
+                "status": "ingest_ok",
+                "userId": "51aeb062",
+                "workspaceId": "6f4a1bfe",
+                "fieldValues": {
+                    "030632b0-2568-4e1b-81a2-74b492dde9e9": {},
+                    "04213a7b-2555-47c1-a093-4edaa43b6734": {},
+                    "05f26d56-262f-427e-9056-f8c4d676fabd": {},
+                    "060b0191-8686-4722-aa22-48a35ad4c8f7": {},
+                    "066a74c3-1746-4172-9cb4-35eef9b354e9": {},
+                    "09f753eb-7a06-4e0d-9d71-6e770c48c542": {},
+                    "0a1116ce-fa05-4431-8fb2-538f0cc52d6a": {},
+                    "0b46084f-ca1c-4759-900a-68479a33bd2f": {},
+                    "14e8c6d8-353b-4925-a662-36ecd9f0547a": {},
+                    "15518c91": {},
+                    "15bced5e-6ac3-446a-b7b8-7e54ae7ade9c": {},
+                    "1646f71c": {},
+                    "1a7e903d-c6e2-443a-8fd8-2bdb27398963": {},
+                    "1d7dbd62-e6e6-4340-9534-e7a18baf62cd": {},
+                    "1e539c7d-3f8d-43b2-915d-6a4a02b38446": {},
+                    "1f4a64f5": {},
+                    "24b08888": {},
+                    "24c3e638-39aa-49f8-a1a3-9003afd5b3d8": {},
+                    "2a5f60a4": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "31674357-7f35-4f7f-ac29-5f0168e8df5c": {},
+                    "3275c58e-1711-4c0a-b944-d19f8f63579e": {},
+                    "32e88d80-0acc-468b-8457-ea2cabcffcb5": {},
+                    "32f53e94": {},
+                    "354bb7b": {},
+                    "363e7026-d6bf-49ad-b463-a7257cfde124": {
+                        "answer": "America First Multifamily Investors, L.P",
+                        "answer_details": {
+                            "formatted_value": "America First Multifamily Investors, L.P",
+                            "raw_value": "America First Multifamily Investors, L.P"
+                        },
+                        "formatted_answer": "America First Multifamily Investors, L.P"
+                    },
+                    "365067fb-698f-4e34-b5df-ff33691e1bbf": {},
+                    "3c7cadff-4b85-4e62-be20-46b49f4dfe3e": {},
+                    "3d44b6a1-9873-4a66-ab0b-c0bc8819aa05": {},
+                    "4073792a-8c93-4aed-9170-61ad88c84457": {},
+                    "413d7f7d-dc35-4ac5-abf3-216b5a53a239": {},
+                    "417b6e81": {
+                        "answer": "02364V107 02364V206",
+                        "answer_details": {
+                            "formatted_value": "02364V107 02364V206",
+                            "raw_value": "02364V107 02364V206"
+                        },
+                        "formatted_answer": "02364V107 02364V206"
+                    },
+                    "42b6fbd7-0458-4f96-807a-a34c52a8daf0": {},
+                    "43ea9e24-95ef-44ef-9ca3-29c40d89ab0a": {},
+                    "4a768eae-5302-441e-bd80-b916da5f864c": {},
+                    "4b2de70a-58fe-4aa9-a5e5-2e5ff7342e7a": {},
+                    "4c946063": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "52707a2f-c7c7-4a4a-a709-eea4b059fc63": {},
+                    "5399dcae-59ec-423b-9bc1-150ce8e1ff56": {},
+                    "5539ec3f-c7a7-43f2-bf93-5c14a36dabf2": {},
+                    "599e4089": {},
+                    "5a388a6c-1eac-45af-b185-c6e815680eb7": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "5aad38b0": {},
+                    "5b18c6ef-7ea0-4734-8c02-277246ba78cd": {},
+                    "5ce3c70e": {},
+                    "606ca8b2-a6ee-45ac-8b53-32076225c7f3": {},
+                    "630689ea-5904-4bcf-8a77-f084e81a14c1": {},
+                    "63bc2fc2-6999-4249-aa28-d96ed463b8a2": {},
+                    "64e3e2ff-afbf-4964-99db-c41d5a026cd4": {},
+                    "656c3667-56b6-423f-bd9b-7b984bd019e9": {},
+                    "67f65334-8d38-4506-b04b-547552b66865": {},
+                    "68324a21-59da-47a2-aa8f-a1122054deac": {},
+                    "68e7e09d": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "692d0df7-937c-4159-97af-b281b8dfe860": {},
+                    "6b87ecf8-68cb-4c5f-befc-71bcadc1cb6f": {},
+                    "6c2a43dc-1bb5-4a9f-8408-e5d677c2b08e": {},
+                    "6efc9cdf": {},
+                    "70416e09-97a5-4f7c-97d1-9078a6f1519f": {},
+                    "733756fc-1e75-4dba-b292-6a074725d109": {},
+                    "7b2f05ac": {},
+                    "7bc7fc9e-4562-42b1-bf6c-9d9e2db92974": {},
+                    "7d3f29c0": {
+                        "answer": "6199",
+                        "answer_details": {
+                            "formatted_value": "6199",
+                            "raw_value": "6199"
+                        },
+                        "formatted_answer": "6199"
+                    },
+                    "7e76a922-075f-4314-b934-57f08813773b": {},
+                    "7ffe09e0-136f-4ec1-a052-ac4ce7094701": {},
+                    "810186ee-7476-4229-ad01-92145c1dc512": {},
+                    "8227f3ec": {},
+                    "844330d6": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "85e2535": {},
+                    "85e3ca2e": {
+                        "answer": "Finance Insurance And Real Estate",
+                        "answer_details": {
+                            "formatted_value": "Finance Insurance And Real Estate",
+                            "raw_value": "Finance Insurance And Real Estate"
+                        },
+                        "formatted_answer": "Finance Insurance And Real Estate"
+                    },
+                    "86ec1493-2ffb-4b6c-bb5e-8b34945bd455": {},
+                    "91e742cb-8a43-445e-8e1b-f580b8600c92": {},
+                    "9489b5a2-6b7a-468c-baba-143e9348a0a3": {},
+                    "9a0c3e0b": {
+                        "answer": "45 days",
+                        "answer_details": {
+                            "formatted_value": "45 days",
+                            "raw_value": 3888000000.0,
+                            "time_unit": "day",
+                            "time_value": 45.0
+                        },
+                        "formatted_answer": "45 days"
+                    },
+                    "9d4e414b": {
+                        "answer": "Mortgage Finance",
+                        "answer_details": {
+                            "formatted_value": "Mortgage Finance",
+                            "raw_value": "Mortgage Finance"
+                        },
+                        "formatted_answer": "Mortgage Finance"
+                    },
+                    "9d59a3d1-c980-41f4-bdf5-7e22e58be3be": {},
+                    "a380227c": {
+                        "answer": "Finance Services",
+                        "answer_details": {
+                            "formatted_value": "Finance Services",
+                            "raw_value": "Finance Services"
+                        },
+                        "formatted_answer": "Finance Services"
+                    },
+                    "a46d05a0": {},
+                    "a4a94057-6d75-4616-9eca-bf5470801521": {},
+                    "a5d01395-1ff3-4ba0-8b7f-be989d88b0f6": {},
+                    "a6cb958e-557b-4953-beb9-4731757a902e": {},
+                    "a7316d80-fc77-46f1-895a-519137362b82": {},
+                    "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {},
+                    "a784b56c-bedc-4da3-ac32-d0aa74779164": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "abb08595-e1b8-4537-8960-6d2d7b28dea7": {
+                        "answer": "AMENDED AND RESTATED CREDIT",
+                        "answer_details": {
+                            "formatted_value": "AMENDED AND RESTATED CREDIT",
+                            "raw_value": "AMENDED AND RESTATED CREDIT"
+                        },
+                        "formatted_answer": "AMENDED AND RESTATED CREDIT"
+                    },
+                    "ad9f2293-3441-410e-b18d-38075285b919": {},
+                    "af8df660-2864-47b0-a912-b7dae2c6d223": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "b01571d9-9923-47bd-a1d3-2305f4325082": {},
+                    "b0a4aba1-1ce3-4819-9eb1-1f9eee31358f": {},
+                    "b14d9891-71ca-4acc-8e62-5eb139d7eafe": {},
+                    "b370d085": {
+                        "answer": "August 23, 2021",
+                        "answer_details": {
+                            "formatted_value": "August 23, 2021",
+                            "raw_value": 1629676800.0
+                        },
+                        "formatted_answer": "August 23, 2021"
+                    },
+                    "b6f80090-49e5-47b5-8218-f156f6faf23e": {},
+                    "b70fc663-043a-4905-b6f1-bdddfd07baa2": {},
+                    "b7b5bcdd-a5a9-4d03-899f-1cb778c62bcc": {},
+                    "bb16c5a2": {},
+                    "bc357474-3e78-4cd0-b6d1-d8fd015c4d78": {},
+                    "be3289fc": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "bfde7ca3-62ba-4ceb-94ac-8783d891e284": {
+                        "answer": "AMENDED AND RESTATED CREDIT",
+                        "answer_details": {
+                            "formatted_value": "AMENDED AND RESTATED CREDIT",
+                            "raw_value": "AMENDED AND RESTATED CREDIT"
+                        },
+                        "formatted_answer": "AMENDED AND RESTATED CREDIT"
+                    },
+                    "c2dca882-97ce-42ca-b570-94bbd168e090": {},
+                    "c2f2de11": {},
+                    "c38754cf-201c-4ad9-ba5c-5a838194d316": {},
+                    "ca0580a6-1acb-4d86-99f7-6eb90d52190e": {},
+                    "cc1aa0f4-9ae6-4281-abd1-9001a74d8805": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "cd24aea4-d53c-474c-8857-a12c0a5940a0": {},
+                    "ce18167c-2dc9-4980-87b8-69fc1fa1a78a": {},
+                    "d565f54b": {},
+                    "d7e9d9e4-a520-43ac-bc46-ec9433ef544a": {},
+                    "d9e7fc7e-63e5-4dc5-b6c6-a4ee053c2ee6": {},
+                    "db4a3d94-f466-4478-be5c-93fa927e293c": {},
+                    "db81ce5a-c854-4bb3-b318-fd0ab60a55aa": {},
+                    "dc2a482c": {
+                        "answer": "GHI",
+                        "answer_details": {
+                            "formatted_value": "GHI",
+                            "raw_value": "GHI"
+                        },
+                        "formatted_answer": "GHI"
+                    },
+                    "dc2e8920": {
+                        "answer": "SECOND",
+                        "answer_details": {
+                            "formatted_value": "SECOND",
+                            "raw_value": "SECOND"
+                        },
+                        "formatted_answer": "SECOND"
+                    },
+                    "de16d3d1": {},
+                    "e813fc3d-7508-494e-83db-698bd211b5c9": {},
+                    "eaa0c685-dfec-40d2-8de6-a9e5df2de68b": {},
+                    "eb5cf294": {},
+                    "edc92cd3-97f0-4827-a8e8-3e8fd7a6ad3d": {},
+                    "efcb538d": {
+                        "answer": "Financial Services",
+                        "answer_details": {
+                            "formatted_value": "Financial Services",
+                            "raw_value": "Financial Services"
+                        },
+                        "formatted_answer": "Financial Services"
+                    },
+                    "f114e594": {},
+                    "f4a28896": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "f4cc0354-3a70-4b6f-b125-04245aac2807": {},
+                    "f60f5865-4451-403c-b29a-8ac707c1e860": {},
+                    "f75f1f4e-4748-465a-8159-57c2d94ce789": {},
+                    "f9df33c5-09b3-4cef-9eeb-17ef6f992b32": {},
+                    "ffae3e85": {},
+                    "ffd8ec2a-c44b-4839-9a84-33828e56d2da": {}
+                }
+            },
+            {
+                "checksum": "f3b4e3c8f4df3c546333569853aae90f9ad538c8265e15f8a7e4a0cd9006b718",
+                "createdOn": "2023-06-29T20:23:39Z",
+                "docLocation": "51aeb062/6f4a1bfe/root/6a9e3221",
+                "fileSize": 487305.0,
+                "id": "6a9e3221",
+                "inferred_title": "EXECUTION VERSION",
+                "isDeleted": false,
+                "meta": {
+                    "cik": "1062231",
+                    "description": "First Amendment to the Amended and Restated Credit Agreement, dated as of June 28, 2023, among American Axle & Manufacturing Holdings, Inc., American Axle & Manufacturing, Inc., certain subsidiaries of American Axle & Manufacturing Holdings, Inc. identified therein, each financial institution party thereto as a lender and JPMorgan Chase Bank, N.A., as Administrative Agent.",
+                    "pubDate": "2023-06-29T00:00:00Z",
+                    "source": "SEC-EDGAR",
+                    "title": "AMERICAN AXLE & MANUFACTURING HOLDINGS INC",
+                    "type": "Credit Agreements",
+                    "url": "https://www.sec.gov/Archives/edgar/data/1062231/000094787123000709/ss2232555_1001.htm"
+                },
+                "mimeType": "application/pdf",
+                "name": "AMERICAN AXLE & MANUFACTURING HOLDINGS INC - 2023 QTR2.pdf",
+                "parentFolder": "root",
+                "renderedFileLocation": "file_data/6a9e3221",
+                "renderedJsonFileLocation": "file_data/6a9e3221_json",
+                "sourceUrl": "",
+                "status": "ingest_ok",
+                "userId": "51aeb062",
+                "workspaceId": "6f4a1bfe",
+                "fieldValues": {
+                    "030632b0-2568-4e1b-81a2-74b492dde9e9": {},
+                    "04213a7b-2555-47c1-a093-4edaa43b6734": {},
+                    "05f26d56-262f-427e-9056-f8c4d676fabd": {},
+                    "060b0191-8686-4722-aa22-48a35ad4c8f7": {},
+                    "066a74c3-1746-4172-9cb4-35eef9b354e9": {},
+                    "09f753eb-7a06-4e0d-9d71-6e770c48c542": {},
+                    "0a1116ce-fa05-4431-8fb2-538f0cc52d6a": {},
+                    "0b46084f-ca1c-4759-900a-68479a33bd2f": {},
+                    "14e8c6d8-353b-4925-a662-36ecd9f0547a": {},
+                    "15518c91": {},
+                    "15bced5e-6ac3-446a-b7b8-7e54ae7ade9c": {},
+                    "1646f71c": {},
+                    "1a7e903d-c6e2-443a-8fd8-2bdb27398963": {},
+                    "1d7dbd62-e6e6-4340-9534-e7a18baf62cd": {},
+                    "1e539c7d-3f8d-43b2-915d-6a4a02b38446": {},
+                    "1f4a64f5": {},
+                    "24b08888": {},
+                    "24c3e638-39aa-49f8-a1a3-9003afd5b3d8": {},
+                    "2a5f60a4": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "31674357-7f35-4f7f-ac29-5f0168e8df5c": {},
+                    "3275c58e-1711-4c0a-b944-d19f8f63579e": {},
+                    "32e88d80-0acc-468b-8457-ea2cabcffcb5": {},
+                    "32f53e94": {},
+                    "354bb7b": {},
+                    "363e7026-d6bf-49ad-b463-a7257cfde124": {
+                        "answer": "AMERICAN AXLE & MANUFACTURING, INC.",
+                        "answer_details": {
+                            "formatted_value": "AMERICAN AXLE & MANUFACTURING, INC.",
+                            "raw_value": "AMERICAN AXLE & MANUFACTURING, INC."
+                        },
+                        "formatted_answer": "AMERICAN AXLE & MANUFACTURING, INC."
+                    },
+                    "365067fb-698f-4e34-b5df-ff33691e1bbf": {},
+                    "3c7cadff-4b85-4e62-be20-46b49f4dfe3e": {},
+                    "3d44b6a1-9873-4a66-ab0b-c0bc8819aa05": {},
+                    "4073792a-8c93-4aed-9170-61ad88c84457": {},
+                    "413d7f7d-dc35-4ac5-abf3-216b5a53a239": {},
+                    "417b6e81": {
+                        "answer": "024061103",
+                        "answer_details": {
+                            "formatted_value": "024061103",
+                            "raw_value": "024061103"
+                        },
+                        "formatted_answer": "024061103"
+                    },
+                    "42b6fbd7-0458-4f96-807a-a34c52a8daf0": {},
+                    "43ea9e24-95ef-44ef-9ca3-29c40d89ab0a": {},
+                    "4a768eae-5302-441e-bd80-b916da5f864c": {},
+                    "4b2de70a-58fe-4aa9-a5e5-2e5ff7342e7a": {},
+                    "4c946063": {},
+                    "52707a2f-c7c7-4a4a-a709-eea4b059fc63": {},
+                    "5399dcae-59ec-423b-9bc1-150ce8e1ff56": {},
+                    "5539ec3f-c7a7-43f2-bf93-5c14a36dabf2": {},
+                    "599e4089": {},
+                    "5a388a6c-1eac-45af-b185-c6e815680eb7": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "5aad38b0": {},
+                    "5b18c6ef-7ea0-4734-8c02-277246ba78cd": {},
+                    "5ce3c70e": {},
+                    "606ca8b2-a6ee-45ac-8b53-32076225c7f3": {},
+                    "630689ea-5904-4bcf-8a77-f084e81a14c1": {},
+                    "63bc2fc2-6999-4249-aa28-d96ed463b8a2": {},
+                    "64e3e2ff-afbf-4964-99db-c41d5a026cd4": {},
+                    "656c3667-56b6-423f-bd9b-7b984bd019e9": {},
+                    "67f65334-8d38-4506-b04b-547552b66865": {},
+                    "68324a21-59da-47a2-aa8f-a1122054deac": {},
+                    "68e7e09d": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "692d0df7-937c-4159-97af-b281b8dfe860": {},
+                    "6b87ecf8-68cb-4c5f-befc-71bcadc1cb6f": {},
+                    "6c2a43dc-1bb5-4a9f-8408-e5d677c2b08e": {},
+                    "6efc9cdf": {},
+                    "70416e09-97a5-4f7c-97d1-9078a6f1519f": {},
+                    "733756fc-1e75-4dba-b292-6a074725d109": {},
+                    "7b2f05ac": {
+                        "answer": "Applicable Total Net Leverage Ratio",
+                        "answer_details": {
+                            "formatted_value": "Applicable Total Net Leverage Ratio",
+                            "raw_value": "Applicable Total Net Leverage Ratio"
+                        },
+                        "formatted_answer": "Applicable Total Net Leverage Ratio"
+                    },
+                    "7bc7fc9e-4562-42b1-bf6c-9d9e2db92974": {},
+                    "7d3f29c0": {
+                        "answer": "3714",
+                        "answer_details": {
+                            "formatted_value": "3714",
+                            "raw_value": "3714"
+                        },
+                        "formatted_answer": "3714"
+                    },
+                    "7e76a922-075f-4314-b934-57f08813773b": {},
+                    "7ffe09e0-136f-4ec1-a052-ac4ce7094701": {},
+                    "810186ee-7476-4229-ad01-92145c1dc512": {},
+                    "8227f3ec": {},
+                    "844330d6": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "85e2535": {},
+                    "85e3ca2e": {
+                        "answer": "Manufacturing",
+                        "answer_details": {
+                            "formatted_value": "Manufacturing",
+                            "raw_value": "Manufacturing"
+                        },
+                        "formatted_answer": "Manufacturing"
+                    },
+                    "86ec1493-2ffb-4b6c-bb5e-8b34945bd455": {},
+                    "91e742cb-8a43-445e-8e1b-f580b8600c92": {},
+                    "9489b5a2-6b7a-468c-baba-143e9348a0a3": {},
+                    "9a0c3e0b": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "9d4e414b": {
+                        "answer": "Auto Parts",
+                        "answer_details": {
+                            "formatted_value": "Auto Parts",
+                            "raw_value": "Auto Parts"
+                        },
+                        "formatted_answer": "Auto Parts"
+                    },
+                    "9d59a3d1-c980-41f4-bdf5-7e22e58be3be": {},
+                    "a380227c": {
+                        "answer": "Motor Vehicle Parts & Accessories",
+                        "answer_details": {
+                            "formatted_value": "Motor Vehicle Parts & Accessories",
+                            "raw_value": "Motor Vehicle Parts & Accessories"
+                        },
+                        "formatted_answer": "Motor Vehicle Parts & Accessories"
+                    },
+                    "a46d05a0": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "a4a94057-6d75-4616-9eca-bf5470801521": {},
+                    "a5d01395-1ff3-4ba0-8b7f-be989d88b0f6": {},
+                    "a6cb958e-557b-4953-beb9-4731757a902e": {},
+                    "a7316d80-fc77-46f1-895a-519137362b82": {},
+                    "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {},
+                    "a784b56c-bedc-4da3-ac32-d0aa74779164": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "abb08595-e1b8-4537-8960-6d2d7b28dea7": {
+                        "answer": "Credit",
+                        "answer_details": {
+                            "formatted_value": "Credit",
+                            "raw_value": "Credit"
+                        },
+                        "formatted_answer": "Credit"
+                    },
+                    "ad9f2293-3441-410e-b18d-38075285b919": {},
+                    "af8df660-2864-47b0-a912-b7dae2c6d223": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "b01571d9-9923-47bd-a1d3-2305f4325082": {},
+                    "b0a4aba1-1ce3-4819-9eb1-1f9eee31358f": {},
+                    "b14d9891-71ca-4acc-8e62-5eb139d7eafe": {},
+                    "b370d085": {
+                        "answer": "March 11, 2022",
+                        "answer_details": {
+                            "formatted_value": "March 11, 2022",
+                            "raw_value": 1646956800.0
+                        },
+                        "formatted_answer": "March 11, 2022"
+                    },
+                    "b6f80090-49e5-47b5-8218-f156f6faf23e": {},
+                    "b70fc663-043a-4905-b6f1-bdddfd07baa2": {},
+                    "b7b5bcdd-a5a9-4d03-899f-1cb778c62bcc": {},
+                    "bb16c5a2": {},
+                    "bc357474-3e78-4cd0-b6d1-d8fd015c4d78": {},
+                    "be3289fc": {
+                        "answer": "$350,000,000",
+                        "answer_details": {
+                            "currency_symbol": "$",
+                            "formatted_value": "USD 350,000,000.00",
+                            "raw_value": 350000000.0,
+                            "unit": "USD"
+                        },
+                        "formatted_answer": "USD 350,000,000.00"
+                    },
+                    "bfde7ca3-62ba-4ceb-94ac-8783d891e284": {
+                        "answer": "",
+                        "answer_details": {
+                            "formatted_value": "",
+                            "raw_value": ""
+                        },
+                        "formatted_answer": ""
+                    },
+                    "c2dca882-97ce-42ca-b570-94bbd168e090": {},
+                    "c2f2de11": {},
+                    "c38754cf-201c-4ad9-ba5c-5a838194d316": {},
+                    "ca0580a6-1acb-4d86-99f7-6eb90d52190e": {},
+                    "cc1aa0f4-9ae6-4281-abd1-9001a74d8805": {
+                        "answer": "For the benefit of the Revolving Lenders, the Issuing Banks and the Tranche A Term Lenders",
+                        "answer_details": {
+                            "formatted_value": "For the benefit of the Revolving Lenders, the Issuing Banks and the Tranche A Term Lenders",
+                            "raw_value": "For the benefit of the Revolving Lenders, the Issuing Banks and the Tranche A Term Lenders"
+                        },
+                        "formatted_answer": "For the benefit of the Revolving Lenders, the Issuing Banks and the Tranche A Term Lenders"
+                    },
+                    "cd24aea4-d53c-474c-8857-a12c0a5940a0": {},
+                    "ce18167c-2dc9-4980-87b8-69fc1fa1a78a": {},
+                    "d565f54b": {},
+                    "d7e9d9e4-a520-43ac-bc46-ec9433ef544a": {},
+                    "d9e7fc7e-63e5-4dc5-b6c6-a4ee053c2ee6": {},
+                    "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                        "answer": "JPMORGAN CHASE BANK, N.A.",
+                        "answer_details": {
+                            "formatted_value": "JPMORGAN CHASE BANK, N.A.",
+                            "raw_value": "JPMORGAN CHASE BANK, N.A."
+                        },
+                        "formatted_answer": "JPMORGAN CHASE BANK, N.A."
+                    },
+                    "db81ce5a-c854-4bb3-b318-fd0ab60a55aa": {},
+                    "dc2a482c": {
+                        "answer": "AXL",
+                        "answer_details": {
+                            "formatted_value": "AXL",
+                            "raw_value": "AXL"
+                        },
+                        "formatted_answer": "AXL"
+                    },
+                    "dc2e8920": {
+                        "answer": "FIRST",
+                        "answer_details": {
+                            "formatted_value": "FIRST",
+                            "raw_value": "FIRST"
+                        },
+                        "formatted_answer": "FIRST"
+                    },
+                    "de16d3d1": {},
+                    "e813fc3d-7508-494e-83db-698bd211b5c9": {},
+                    "eaa0c685-dfec-40d2-8de6-a9e5df2de68b": {},
+                    "eb5cf294": {},
+                    "edc92cd3-97f0-4827-a8e8-3e8fd7a6ad3d": {},
+                    "efcb538d": {
+                        "answer": "Consumer Cyclical",
+                        "answer_details": {
+                            "formatted_value": "Consumer Cyclical",
+                            "raw_value": "Consumer Cyclical"
+                        },
+                        "formatted_answer": "Consumer Cyclical"
+                    },
+                    "f114e594": {},
+                    "f4a28896": {},
+                    "f4cc0354-3a70-4b6f-b125-04245aac2807": {},
+                    "f60f5865-4451-403c-b29a-8ac707c1e860": {},
+                    "f75f1f4e-4748-465a-8159-57c2d94ce789": {},
+                    "f9df33c5-09b3-4cef-9eeb-17ef6f992b32": {},
+                    "ffae3e85": {},
+                    "ffd8ec2a-c44b-4839-9a84-33828e56d2da": {}
+                }
+            }
+        ],
+        "totalDocCount": 2898
+    },
+    "dealsBySector": {
+        "results": [
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 278250000.0,
+                        "raw_value": 278250000.0
+                    }
+                },
+                "child_total": 11,
+                "efcb538d": {
+                    "answer_details": {
+                        "formatted_value": "Healthcare",
+                        "raw_value": "Healthcare"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 7,
+                "efcb538d": {
+                    "answer_details": {
+                        "formatted_value": "Real Estate",
+                        "raw_value": "Real Estate"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 91000000.0,
+                        "raw_value": 91000000.0
+                    }
+                },
+                "child_total": 9,
+                "efcb538d": {
+                    "answer_details": {
+                        "formatted_value": "",
+                        "raw_value": ""
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 1780700000.0,
+                        "raw_value": 1780700000.0
+                    }
+                },
+                "child_total": 16,
+                "efcb538d": {
+                    "answer_details": {
+                        "formatted_value": "Technology",
+                        "raw_value": "Technology"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 2000000000.0,
+                        "raw_value": 2000000000.0
+                    }
+                },
+                "child_total": 2,
+                "efcb538d": {
+                    "answer_details": {
+                        "formatted_value": "Consumer Defensive",
+                        "raw_value": "Consumer Defensive"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 5025000000.0,
+                        "raw_value": 5025000000.0
+                    }
+                },
+                "child_total": 6,
+                "efcb538d": {
+                    "answer_details": {
+                        "formatted_value": "Financial Services",
+                        "raw_value": "Financial Services"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 750000000.0,
+                        "raw_value": 750000000.0
+                    }
+                },
+                "child_total": 3,
+                "efcb538d": {
+                    "answer_details": {
+                        "formatted_value": "Energy",
+                        "raw_value": "Energy"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 3009614250.38,
+                        "raw_value": 3009614250.38
+                    }
+                },
+                "child_total": 15,
+                "efcb538d": {
+                    "answer_details": {
+                        "formatted_value": "Consumer Cyclical",
+                        "raw_value": "Consumer Cyclical"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 500000000.0,
+                        "raw_value": 500000000.0
+                    }
+                },
+                "child_total": 1,
+                "efcb538d": {
+                    "answer_details": {
+                        "formatted_value": "Utilities",
+                        "raw_value": "Utilities"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 150000000.0,
+                        "raw_value": 150000000.0
+                    }
+                },
+                "child_total": 4,
+                "efcb538d": {
+                    "answer_details": {
+                        "formatted_value": "Basic Materials",
+                        "raw_value": "Basic Materials"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 2060412606.56,
+                        "raw_value": 2060412606.56
+                    }
+                },
+                "child_total": 10,
+                "efcb538d": {
+                    "answer_details": {
+                        "formatted_value": "Industrials",
+                        "raw_value": "Industrials"
+                    }
+                }
+            }
+        ],
+        "totalMatchCount": 11
+    },
+    "dealsByIndustry": {
+        "results": [
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Oil & Gas E&P",
+                        "raw_value": "Oil & Gas E&P"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Building Products & Equipment",
+                        "raw_value": "Building Products & Equipment"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "REIT - Retail",
+                        "raw_value": "REIT - Retail"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 25000000.0,
+                        "raw_value": 25000000.0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Capital Markets",
+                        "raw_value": "Capital Markets"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Textile Manufacturing",
+                        "raw_value": "Textile Manufacturing"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Solar",
+                        "raw_value": "Solar"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Insurance - Reinsurance",
+                        "raw_value": "Insurance - Reinsurance"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Packaged Foods",
+                        "raw_value": "Packaged Foods"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "REIT - Office",
+                        "raw_value": "REIT - Office"
+                    }
+                },
+                "child_total": 2
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 1400000000.0,
+                        "raw_value": 1400000000.0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Packaging & Containers",
+                        "raw_value": "Packaging & Containers"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Insurance - Property & Casualty",
+                        "raw_value": "Insurance - Property & Casualty"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Computer Hardware",
+                        "raw_value": "Computer Hardware"
+                    }
+                },
+                "child_total": 2
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 500000000.0,
+                        "raw_value": 500000000.0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Utilities - Diversified",
+                        "raw_value": "Utilities - Diversified"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 1309614250.38,
+                        "raw_value": 1309614250.38
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Restaurants",
+                        "raw_value": "Restaurants"
+                    }
+                },
+                "child_total": 2
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "REIT - Residential",
+                        "raw_value": "REIT - Residential"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 28000000.0,
+                        "raw_value": 28000000.0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Marine Shipping",
+                        "raw_value": "Marine Shipping"
+                    }
+                },
+                "child_total": 2
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "REIT - Industrial",
+                        "raw_value": "REIT - Industrial"
+                    }
+                },
+                "child_total": 3
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Tools & Accessories",
+                        "raw_value": "Tools & Accessories"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 25000000.0,
+                        "raw_value": 25000000.0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Specialty Business Services",
+                        "raw_value": "Specialty Business Services"
+                    }
+                },
+                "child_total": 3
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Leisure",
+                        "raw_value": "Leisure"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 91000000.0,
+                        "raw_value": 91000000.0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "",
+                        "raw_value": ""
+                    }
+                },
+                "child_total": 9
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 7412606.56,
+                        "raw_value": 7412606.56
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Rental & Leasing Services",
+                        "raw_value": "Rental & Leasing Services"
+                    }
+                },
+                "child_total": 2
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 600000000.0,
+                        "raw_value": 600000000.0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Software - Application",
+                        "raw_value": "Software - Application"
+                    }
+                },
+                "child_total": 4
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Luxury Goods",
+                        "raw_value": "Luxury Goods"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 700000000.0,
+                        "raw_value": 700000000.0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Information Technology Services",
+                        "raw_value": "Information Technology Services"
+                    }
+                },
+                "child_total": 3
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Airlines",
+                        "raw_value": "Airlines"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Oil & Gas Equipment & Services",
+                        "raw_value": "Oil & Gas Equipment & Services"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Thermal Coal",
+                        "raw_value": "Thermal Coal"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 228250000.0,
+                        "raw_value": 228250000.0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Medical Devices",
+                        "raw_value": "Medical Devices"
+                    }
+                },
+                "child_total": 4
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 2000000000.0,
+                        "raw_value": 2000000000.0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Specialty Industrial Machinery",
+                        "raw_value": "Specialty Industrial Machinery"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 305000000.0,
+                        "raw_value": 305000000.0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Semiconductors",
+                        "raw_value": "Semiconductors"
+                    }
+                },
+                "child_total": 3
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Specialty Retail",
+                        "raw_value": "Specialty Retail"
+                    }
+                },
+                "child_total": 2
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 700000,
+                        "raw_value": 700000
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Internet Retail",
+                        "raw_value": "Internet Retail"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 50000000.0,
+                        "raw_value": 50000000.0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Advertising Agencies",
+                        "raw_value": "Advertising Agencies"
+                    }
+                },
+                "child_total": 2
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Healthcare Plans",
+                        "raw_value": "Healthcare Plans"
+                    }
+                },
+                "child_total": 2
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Paper & Paper Products",
+                        "raw_value": "Paper & Paper Products"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 2000000000.0,
+                        "raw_value": 2000000000.0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Beverages - Brewers",
+                        "raw_value": "Beverages - Brewers"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 50000000.0,
+                        "raw_value": 50000000.0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Drug Manufacturers - Specialty & Generic",
+                        "raw_value": "Drug Manufacturers - Specialty & Generic"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Broadcasting",
+                        "raw_value": "Broadcasting"
+                    }
+                },
+                "child_total": 2
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 750000000.0,
+                        "raw_value": 750000000.0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Oil & Gas Midstream",
+                        "raw_value": "Oil & Gas Midstream"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Home Improvement Retail",
+                        "raw_value": "Home Improvement Retail"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 5000000000.0,
+                        "raw_value": 5000000000.0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Credit Services",
+                        "raw_value": "Credit Services"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Biotechnology",
+                        "raw_value": "Biotechnology"
+                    }
+                },
+                "child_total": 2
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Asset Management",
+                        "raw_value": "Asset Management"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 150000000.0,
+                        "raw_value": 150000000.0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Specialty Chemicals",
+                        "raw_value": "Specialty Chemicals"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 250000000.0,
+                        "raw_value": 250000000.0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Entertainment",
+                        "raw_value": "Entertainment"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Gambling",
+                        "raw_value": "Gambling"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Diagnostics & Research",
+                        "raw_value": "Diagnostics & Research"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 175000000.0,
+                        "raw_value": 175000000.0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Software - Infrastructure",
+                        "raw_value": "Software - Infrastructure"
+                    }
+                },
+                "child_total": 2
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Medical Care Facilities",
+                        "raw_value": "Medical Care Facilities"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "9d4e414b": {
+                    "answer_details": {
+                        "formatted_value": "Financial Data & Stock Exchanges",
+                        "raw_value": "Financial Data & Stock Exchanges"
+                    }
+                },
+                "child_total": 1
+            }
+        ],
+        "totalMatchCount": 51
+    },
+    "dealsByBorrowerCounsel": {
+        "results": [
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 709614250.38,
+                        "raw_value": 709614250.38
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Cahill Gordon & Reindel LLP",
+                        "raw_value": "Cahill Gordon & Reindel LLP"
+                    }
+                },
+                "child_total": 2
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Willkie Farr & Gallagher LLP",
+                        "raw_value": "Willkie Farr & Gallagher LLP"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Cleary Gottlieb Steen & Hamilton LLP",
+                        "raw_value": "Cleary Gottlieb Steen & Hamilton LLP"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Freshfields Bruckhaus Deringer LLP",
+                        "raw_value": "Freshfields Bruckhaus Deringer LLP"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 200000000.0,
+                        "raw_value": 200000000.0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Wachtell, Lipton, Rosen & Katz",
+                        "raw_value": "Wachtell, Lipton, Rosen & Katz"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 600000000.0,
+                        "raw_value": 600000000.0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Davis Polk & Wardwell LLP",
+                        "raw_value": "Davis Polk & Wardwell LLP"
+                    }
+                },
+                "child_total": 3
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Skadden, Arps, Slate, Meagher & Flom LLP",
+                        "raw_value": "Skadden, Arps, Slate, Meagher & Flom LLP"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Goodwin Procter LLP",
+                        "raw_value": "Goodwin Procter LLP"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Norton Rose Fulbright",
+                        "raw_value": "Norton Rose Fulbright"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Hunton Andrews Kurth LLP",
+                        "raw_value": "Hunton Andrews Kurth LLP"
+                    }
+                },
+                "child_total": 4
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Simpson Thacher & Bartlett LLP",
+                        "raw_value": "Simpson Thacher & Bartlett LLP"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 700000000.0,
+                        "raw_value": 700000000.0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Paul, Weiss, Rifkind, Wharton & Garrison LLP",
+                        "raw_value": "Paul, Weiss, Rifkind, Wharton & Garrison LLP"
+                    }
+                },
+                "child_total": 2
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 150000000.0,
+                        "raw_value": 150000000.0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Latham & Watkins LLP",
+                        "raw_value": "Latham & Watkins LLP"
+                    }
+                },
+                "child_total": 3
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Duane Morris LLP",
+                        "raw_value": "Duane Morris LLP"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Fried, Frank, Harris, Shriver & Jacobson LLP",
+                        "raw_value": "Fried, Frank, Harris, Shriver & Jacobson LLP"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Shearman & Sterling LLP",
+                        "raw_value": "Shearman & Sterling LLP"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 500000000.0,
+                        "raw_value": 500000000.0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Davis Wright Tremaine LLP",
+                        "raw_value": "Davis Wright Tremaine LLP"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Other",
+                        "raw_value": "Other"
+                    }
+                },
+                "child_total": 3
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 28000000.0,
+                        "raw_value": 28000000.0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Watson, Farley & Williams LLP",
+                        "raw_value": "Watson, Farley & Williams LLP"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 12657362606.56,
+                        "raw_value": 12657362606.56
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": null,
+                        "raw_value": null
+                    }
+                },
+                "child_total": 47
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Dechert LLP",
+                        "raw_value": "Dechert LLP"
+                    }
+                },
+                "child_total": 2
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "King & Spalding LLP",
+                        "raw_value": "King & Spalding LLP"
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 100000000.0,
+                        "raw_value": 100000000.0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "Kirkland & Ellis LLP",
+                        "raw_value": "Kirkland & Ellis LLP"
+                    }
+                },
+                "child_total": 3
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "a7632fab-9dd1-4a9a-bfad-b7e3edde2f7f": {
+                    "answer_details": {
+                        "formatted_value": "DLA Piper US LLP",
+                        "raw_value": "DLA Piper US LLP"
+                    }
+                },
+                "child_total": 1
+            }
+        ],
+        "totalMatchCount": 24
+    },
+    "dealsByAgentCounsel": {
+        "results": [
+            {
+                "4a768eae-5302-441e-bd80-b916da5f864c": {
+                    "answer_details": {
+                        "formatted_value": "Latham & Watkins LLP",
+                        "raw_value": "Latham & Watkins LLP"
+                    }
+                },
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 150000000.0,
+                        "raw_value": 150000000.0
+                    }
+                },
+                "child_total": 2
+            },
+            {
+                "4a768eae-5302-441e-bd80-b916da5f864c": {
+                    "answer_details": {
+                        "formatted_value": "Cahill Gordon & Reindel LLP",
+                        "raw_value": "Cahill Gordon & Reindel LLP"
+                    }
+                },
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 709614250.38,
+                        "raw_value": 709614250.38
+                    }
+                },
+                "child_total": 3
+            },
+            {
+                "4a768eae-5302-441e-bd80-b916da5f864c": {
+                    "answer_details": {
+                        "formatted_value": "White & Case LLP",
+                        "raw_value": "White & Case LLP"
+                    }
+                },
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "4a768eae-5302-441e-bd80-b916da5f864c": {
+                    "answer_details": {
+                        "formatted_value": "Cravath, Swaine & Moore LLP",
+                        "raw_value": "Cravath, Swaine & Moore LLP"
+                    }
+                },
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "4a768eae-5302-441e-bd80-b916da5f864c": {
+                    "answer_details": {
+                        "formatted_value": "Davis Polk & Wardwell LLP",
+                        "raw_value": "Davis Polk & Wardwell LLP"
+                    }
+                },
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 2900000000.0,
+                        "raw_value": 2900000000.0
+                    }
+                },
+                "child_total": 5
+            },
+            {
+                "4a768eae-5302-441e-bd80-b916da5f864c": {
+                    "answer_details": {
+                        "formatted_value": "Other",
+                        "raw_value": "Other"
+                    }
+                },
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 5507412606.56,
+                        "raw_value": 5507412606.56
+                    }
+                },
+                "child_total": 4
+            },
+            {
+                "4a768eae-5302-441e-bd80-b916da5f864c": {
+                    "answer_details": {
+                        "formatted_value": "Simpson Thacher & Bartlett LLP",
+                        "raw_value": "Simpson Thacher & Bartlett LLP"
+                    }
+                },
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "4a768eae-5302-441e-bd80-b916da5f864c": {
+                    "answer_details": {
+                        "formatted_value": null,
+                        "raw_value": null
+                    }
+                },
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 5427950000.0,
+                        "raw_value": 5427950000.0
+                    }
+                },
+                "child_total": 65
+            },
+            {
+                "4a768eae-5302-441e-bd80-b916da5f864c": {
+                    "answer_details": {
+                        "formatted_value": "Paul, Weiss, Rifkind, Wharton & Garrison LLP",
+                        "raw_value": "Paul, Weiss, Rifkind, Wharton & Garrison LLP"
+                    }
+                },
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 700000000.0,
+                        "raw_value": 700000000.0
+                    }
+                },
+                "child_total": 1
+            },
+            {
+                "4a768eae-5302-441e-bd80-b916da5f864c": {
+                    "answer_details": {
+                        "formatted_value": "Paul Hastings LLP",
+                        "raw_value": "Paul Hastings LLP"
+                    }
+                },
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 250000000.0,
+                        "raw_value": 250000000.0
+                    }
+                },
+                "child_total": 1
+            }
+        ],
+        "totalMatchCount": 10
+    },
+    "dealsByAdministrativeAgent": {
+        "results": [
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 2000000000.0,
+                        "raw_value": 2000000000.0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "Citibank, N.A.",
+                        "raw_value": "Citibank, N.A."
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 60000000.0,
+                        "raw_value": 60000000.0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "BANCFIRST",
+                        "raw_value": "BANCFIRST"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 2,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "Wells Fargo",
+                        "raw_value": "Wells Fargo"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 175000000.0,
+                        "raw_value": 175000000.0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "Goldman Sachs Bank USA",
+                        "raw_value": "Goldman Sachs Bank USA"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 700000000.0,
+                        "raw_value": 700000000.0
+                    }
+                },
+                "child_total": 2,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "WILMINGTON TRUST, NATIONAL ASSOCIATION",
+                        "raw_value": "WILMINGTON TRUST, NATIONAL ASSOCIATION"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "GLAS USA LLC",
+                        "raw_value": "GLAS USA LLC"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "SILICON VALLEY BANK",
+                        "raw_value": "SILICON VALLEY BANK"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "JEFFERIES FINANCE LLC",
+                        "raw_value": "JEFFERIES FINANCE LLC"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 1400000000.0,
+                        "raw_value": 1400000000.0
+                    }
+                },
+                "child_total": 3,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "JPMCB",
+                        "raw_value": "JPMCB"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "BNP PARIBAS",
+                        "raw_value": "BNP PARIBAS"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "TD Bank, N.A.",
+                        "raw_value": "TD Bank, N.A."
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "AVENUE CAPITAL MANAGEMENT II, L.P.",
+                        "raw_value": "AVENUE CAPITAL MANAGEMENT II, L.P."
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "Powerscourt Investments 32, LP",
+                        "raw_value": "Powerscourt Investments 32, LP"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 2,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "CITIBANK, N.A.",
+                        "raw_value": "CITIBANK, N.A."
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 150000000.0,
+                        "raw_value": 150000000.0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "Citibank, N.A., as administrative agent",
+                        "raw_value": "Citibank, N.A., as administrative agent"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 94450000.0,
+                        "raw_value": 94450000.0
+                    }
+                },
+                "child_total": 19,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": null,
+                        "raw_value": null
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 7412606.56,
+                        "raw_value": 7412606.56
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "BP FUNDCO LLC",
+                        "raw_value": "BP FUNDCO LLC"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 50000000.0,
+                        "raw_value": 50000000.0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "Deutsche Bank AG New York Branch",
+                        "raw_value": "Deutsche Bank AG New York Branch"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "NATIONAL BANK OF CANADA",
+                        "raw_value": "NATIONAL BANK OF CANADA"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "GOLDMAN SACHS BANK USA",
+                        "raw_value": "GOLDMAN SACHS BANK USA"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "",
+                        "raw_value": ""
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "Bank of Montreal",
+                        "raw_value": "Bank of Montreal"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "Barclays",
+                        "raw_value": "Barclays"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 500000000.0,
+                        "raw_value": 500000000.0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "MUFG BANK, LTD.",
+                        "raw_value": "MUFG BANK, LTD."
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 900000000.0,
+                        "raw_value": 900000000.0
+                    }
+                },
+                "child_total": 3,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "Bank of America, N.A.",
+                        "raw_value": "Bank of America, N.A."
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "KEYBANK NATIONAL ASSOCIATION",
+                        "raw_value": "KEYBANK NATIONAL ASSOCIATION"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 21000000,
+                        "raw_value": 21000000
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "Sprott Private Resource Streaming and Royalty (Collector), LP",
+                        "raw_value": "Sprott Private Resource Streaming and Royalty (Collector), LP"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 2709614250.38,
+                        "raw_value": 2709614250.38
+                    }
+                },
+                "child_total": 10,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "JPMORGAN CHASE BANK, N.A.",
+                        "raw_value": "JPMORGAN CHASE BANK, N.A."
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 750000000.0,
+                        "raw_value": 750000000.0
+                    }
+                },
+                "child_total": 5,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "WELLS FARGO BANK, NATIONAL ASSOCIATION",
+                        "raw_value": "WELLS FARGO BANK, NATIONAL ASSOCIATION"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "PNC Bank, National Association",
+                        "raw_value": "PNC Bank, National Association"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 27500000,
+                        "raw_value": 27500000
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "Avenue Capital Management II, L.P.",
+                        "raw_value": "Avenue Capital Management II, L.P."
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 600000000.0,
+                        "raw_value": 600000000.0
+                    }
+                },
+                "child_total": 2,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "BANK OF AMERICA, N.A",
+                        "raw_value": "BANK OF AMERICA, N.A"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 50000000.0,
+                        "raw_value": 50000000.0
+                    }
+                },
+                "child_total": 3,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "BANK OF AMERICA, N.A.",
+                        "raw_value": "BANK OF AMERICA, N.A."
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "CIBC BANK USA",
+                        "raw_value": "CIBC BANK USA"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "Nomura Corporate Funding Americas, LLC",
+                        "raw_value": "Nomura Corporate Funding Americas, LLC"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 5000000000.0,
+                        "raw_value": 5000000000.0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "J.P. Morgan Securities Australia Limited",
+                        "raw_value": "J.P. Morgan Securities Australia Limited"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "JPMorgan",
+                        "raw_value": "JPMorgan"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "Texas Capital Bank",
+                        "raw_value": "Texas Capital Bank"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 0,
+                        "raw_value": 0
+                    }
+                },
+                "child_total": 1,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "Wells Fargo Bank, National Association",
+                        "raw_value": "Wells Fargo Bank, National Association"
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 250000000.0,
+                        "raw_value": 250000000.0
+                    }
+                },
+                "child_total": 2,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "JPMorgan Chase Bank, N.A.",
+                        "raw_value": "JPMorgan Chase Bank, N.A."
+                    }
+                }
+            },
+            {
+                "68e7e09d": {
+                    "answer_details": {
+                        "formatted_value": 200000000.0,
+                        "raw_value": 200000000.0
+                    }
+                },
+                "child_total": 2,
+                "db4a3d94-f466-4478-be5c-93fa927e293c": {
+                    "answer_details": {
+                        "formatted_value": "Morgan Stanley Senior Funding, Inc.",
+                        "raw_value": "Morgan Stanley Senior Funding, Inc."
+                    }
+                }
+            }
+        ],
+        "totalMatchCount": 41
+    }
+}
